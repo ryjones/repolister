@@ -1,0 +1,810 @@
+{
+  "name": "hyperledger",
+  "full_name": "hyperledger/hyperledger",
+  "git_url": "git://github.com/hyperledger/hyperledger.git",
+  "clone_url": "https://github.com/hyperledger/hyperledger.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-plenum",
+  "full_name": "hyperledger/indy-plenum",
+  "git_url": "git://github.com/hyperledger/indy-plenum.git",
+  "clone_url": "https://github.com/hyperledger/indy-plenum.git",
+  "ssh_url": "git@github.com:hyperledger/indy-plenum.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-core",
+  "full_name": "hyperledger/sawtooth-core",
+  "git_url": "git://github.com/hyperledger/sawtooth-core.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-core.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-core.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric",
+  "full_name": "hyperledger/fabric",
+  "git_url": "git://github.com/hyperledger/fabric.git",
+  "clone_url": "https://github.com/hyperledger/fabric.git",
+  "ssh_url": "git@github.com:hyperledger/fabric.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-sdk-py",
+  "full_name": "hyperledger/fabric-sdk-py",
+  "git_url": "git://github.com/hyperledger/fabric-sdk-py.git",
+  "clone_url": "https://github.com/hyperledger/fabric-sdk-py.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-sdk-py.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "blockchain-explorer",
+  "full_name": "hyperledger/blockchain-explorer",
+  "git_url": "git://github.com/hyperledger/blockchain-explorer.git",
+  "clone_url": "https://github.com/hyperledger/blockchain-explorer.git",
+  "ssh_url": "git@github.com:hyperledger/blockchain-explorer.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-sdk-node",
+  "full_name": "hyperledger/fabric-sdk-node",
+  "git_url": "git://github.com/hyperledger/fabric-sdk-node.git",
+  "clone_url": "https://github.com/hyperledger/fabric-sdk-node.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-sdk-node.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-baseimage",
+  "full_name": "hyperledger/fabric-baseimage",
+  "git_url": "git://github.com/hyperledger/fabric-baseimage.git",
+  "clone_url": "https://github.com/hyperledger/fabric-baseimage.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-baseimage.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-sdk-java",
+  "full_name": "hyperledger/fabric-sdk-java",
+  "git_url": "git://github.com/hyperledger/fabric-sdk-java.git",
+  "clone_url": "https://github.com/hyperledger/fabric-sdk-java.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-sdk-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-node",
+  "full_name": "hyperledger/indy-node",
+  "git_url": "git://github.com/hyperledger/indy-node.git",
+  "clone_url": "https://github.com/hyperledger/indy-node.git",
+  "ssh_url": "git@github.com:hyperledger/indy-node.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-ca",
+  "full_name": "hyperledger/fabric-ca",
+  "git_url": "git://github.com/hyperledger/fabric-ca.git",
+  "clone_url": "https://github.com/hyperledger/fabric-ca.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-ca.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-chaintool",
+  "full_name": "hyperledger/fabric-chaintool",
+  "git_url": "git://github.com/hyperledger/fabric-chaintool.git",
+  "clone_url": "https://github.com/hyperledger/fabric-chaintool.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaintool.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-sdk",
+  "full_name": "hyperledger/indy-sdk",
+  "git_url": "git://github.com/hyperledger/indy-sdk.git",
+  "clone_url": "https://github.com/hyperledger/indy-sdk.git",
+  "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-sdk-go",
+  "full_name": "hyperledger/fabric-sdk-go",
+  "git_url": "git://github.com/hyperledger/fabric-sdk-go.git",
+  "clone_url": "https://github.com/hyperledger/fabric-sdk-go.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-sdk-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "cello-analytics",
+  "full_name": "hyperledger/cello-analytics",
+  "git_url": "git://github.com/hyperledger/cello-analytics.git",
+  "clone_url": "https://github.com/hyperledger/cello-analytics.git",
+  "ssh_url": "git@github.com:hyperledger/cello-analytics.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "hyperledgerwp",
+  "full_name": "hyperledger/hyperledgerwp",
+  "git_url": "git://github.com/hyperledger/hyperledgerwp.git",
+  "clone_url": "https://github.com/hyperledger/hyperledgerwp.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledgerwp.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-samples",
+  "full_name": "hyperledger/fabric-samples",
+  "git_url": "git://github.com/hyperledger/fabric-samples.git",
+  "clone_url": "https://github.com/hyperledger/fabric-samples.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-samples.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "homebrew-fabric",
+  "full_name": "hyperledger/homebrew-fabric",
+  "git_url": "git://github.com/hyperledger/homebrew-fabric.git",
+  "clone_url": "https://github.com/hyperledger/homebrew-fabric.git",
+  "ssh_url": "git@github.com:hyperledger/homebrew-fabric.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-test",
+  "full_name": "hyperledger/fabric-test",
+  "git_url": "git://github.com/hyperledger/fabric-test.git",
+  "clone_url": "https://github.com/hyperledger/fabric-test.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-test.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-java",
+  "full_name": "hyperledger/fabric-chaincode-java",
+  "git_url": "git://github.com/hyperledger/fabric-chaincode-java.git",
+  "clone_url": "https://github.com/hyperledger/fabric-chaincode-java.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaincode-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-node",
+  "full_name": "hyperledger/fabric-chaincode-node",
+  "git_url": "git://github.com/hyperledger/fabric-chaincode-node.git",
+  "clone_url": "https://github.com/hyperledger/fabric-chaincode-node.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaincode-node.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-crypto",
+  "full_name": "hyperledger/indy-crypto",
+  "git_url": "git://github.com/hyperledger/indy-crypto.git",
+  "clone_url": "https://github.com/hyperledger/indy-crypto.git",
+  "ssh_url": "git@github.com:hyperledger/indy-crypto.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-supply-chain",
+  "full_name": "hyperledger/sawtooth-supply-chain",
+  "git_url": "git://github.com/hyperledger/sawtooth-supply-chain.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-supply-chain.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-supply-chain.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "hyperledger.github.io",
+  "full_name": "hyperledger/hyperledger.github.io",
+  "git_url": "git://github.com/hyperledger/hyperledger.github.io.git",
+  "clone_url": "https://github.com/hyperledger/hyperledger.github.io.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger.github.io.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-seth",
+  "full_name": "hyperledger/sawtooth-seth",
+  "git_url": "git://github.com/hyperledger/sawtooth-seth.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-seth.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-seth.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-next-directory",
+  "full_name": "hyperledger/sawtooth-next-directory",
+  "git_url": "git://github.com/hyperledger/sawtooth-next-directory.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-next-directory.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-next-directory.git",
+  "has_issues": false,
+  "archived": true
+}
+{
+  "name": "sawtooth-marketplace",
+  "full_name": "hyperledger/sawtooth-marketplace",
+  "git_url": "git://github.com/hyperledger/sawtooth-marketplace.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-marketplace.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-marketplace.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-evm",
+  "full_name": "hyperledger/fabric-chaincode-evm",
+  "git_url": "git://github.com/hyperledger/fabric-chaincode-evm.git",
+  "clone_url": "https://github.com/hyperledger/fabric-chaincode-evm.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaincode-evm.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-explorer",
+  "full_name": "hyperledger/sawtooth-explorer",
+  "git_url": "git://github.com/hyperledger/sawtooth-explorer.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-explorer.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-explorer.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-jenkins-pipeline-lib",
+  "full_name": "hyperledger/indy-jenkins-pipeline-lib",
+  "git_url": "git://github.com/hyperledger/indy-jenkins-pipeline-lib.git",
+  "clone_url": "https://github.com/hyperledger/indy-jenkins-pipeline-lib.git",
+  "ssh_url": "git@github.com:hyperledger/indy-jenkins-pipeline-lib.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-rfcs",
+  "full_name": "hyperledger/sawtooth-rfcs",
+  "git_url": "git://github.com/hyperledger/sawtooth-rfcs.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-amcl",
+  "full_name": "hyperledger/fabric-amcl",
+  "git_url": "git://github.com/hyperledger/fabric-amcl.git",
+  "clone_url": "https://github.com/hyperledger/fabric-amcl.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-amcl.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-website",
+  "full_name": "hyperledger/sawtooth-website",
+  "git_url": "git://github.com/hyperledger/sawtooth-website.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-website.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-website.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-go",
+  "full_name": "hyperledger/sawtooth-sdk-go",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-go.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-go.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-javascript",
+  "full_name": "hyperledger/sawtooth-sdk-javascript",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-javascript.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-javascript.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-javascript.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-java",
+  "full_name": "hyperledger/sawtooth-sdk-java",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-java.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-java.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sabre",
+  "full_name": "hyperledger/sawtooth-sabre",
+  "git_url": "git://github.com/hyperledger/sawtooth-sabre.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sabre.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sabre.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-agent",
+  "full_name": "hyperledger/indy-agent",
+  "git_url": "git://github.com/hyperledger/indy-agent.git",
+  "clone_url": "https://github.com/hyperledger/indy-agent.git",
+  "ssh_url": "git@github.com:hyperledger/indy-agent.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-raft",
+  "full_name": "hyperledger/sawtooth-raft",
+  "git_url": "git://github.com/hyperledger/sawtooth-raft.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-raft.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-raft.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-poet",
+  "full_name": "hyperledger/sawtooth-poet",
+  "git_url": "git://github.com/hyperledger/sawtooth-poet.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-poet.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-poet.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-ansible",
+  "full_name": "hyperledger/sawtooth-ansible",
+  "git_url": "git://github.com/hyperledger/sawtooth-ansible.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-ansible.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-ansible.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-cli",
+  "full_name": "hyperledger/fabric-cli",
+  "git_url": "git://github.com/hyperledger/fabric-cli.git",
+  "clone_url": "https://github.com/hyperledger/fabric-cli.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-cli.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "perf-and-scale-wg",
+  "full_name": "hyperledger/perf-and-scale-wg",
+  "git_url": "git://github.com/hyperledger/perf-and-scale-wg.git",
+  "clone_url": "https://github.com/hyperledger/perf-and-scale-wg.git",
+  "ssh_url": "git@github.com:hyperledger/perf-and-scale-wg.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-test-automation",
+  "full_name": "hyperledger/indy-test-automation",
+  "git_url": "git://github.com/hyperledger/indy-test-automation.git",
+  "clone_url": "https://github.com/hyperledger/indy-test-automation.git",
+  "ssh_url": "git@github.com:hyperledger/indy-test-automation.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-pbft",
+  "full_name": "hyperledger/sawtooth-pbft",
+  "git_url": "git://github.com/hyperledger/sawtooth-pbft.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-pbft.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-pbft.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-lib-go",
+  "full_name": "hyperledger/fabric-lib-go",
+  "git_url": "git://github.com/hyperledger/fabric-lib-go.git",
+  "clone_url": "https://github.com/hyperledger/fabric-lib-go.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-lib-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "ursa",
+  "full_name": "hyperledger/ursa",
+  "git_url": "git://github.com/hyperledger/ursa.git",
+  "clone_url": "https://github.com/hyperledger/ursa.git",
+  "ssh_url": "git@github.com:hyperledger/ursa.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-python",
+  "full_name": "hyperledger/sawtooth-sdk-python",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-python.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-python.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-python.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-rust",
+  "full_name": "hyperledger/sawtooth-sdk-rust",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-rust.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-rust.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-rust.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-docs",
+  "full_name": "hyperledger/indy-docs",
+  "git_url": "git://github.com/hyperledger/indy-docs.git",
+  "clone_url": "https://github.com/hyperledger/indy-docs.git",
+  "ssh_url": "git@github.com:hyperledger/indy-docs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-devmode",
+  "full_name": "hyperledger/sawtooth-devmode",
+  "git_url": "git://github.com/hyperledger/sawtooth-devmode.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-devmode.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-devmode.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "grid",
+  "full_name": "hyperledger/grid",
+  "git_url": "git://github.com/hyperledger/grid.git",
+  "clone_url": "https://github.com/hyperledger/grid.git",
+  "ssh_url": "git@github.com:hyperledger/grid.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "grid-contrib",
+  "full_name": "hyperledger/grid-contrib",
+  "git_url": "git://github.com/hyperledger/grid-contrib.git",
+  "clone_url": "https://github.com/hyperledger/grid-contrib.git",
+  "ssh_url": "git@github.com:hyperledger/grid-contrib.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "grid-website",
+  "full_name": "hyperledger/grid-website",
+  "git_url": "git://github.com/hyperledger/grid-website.git",
+  "clone_url": "https://github.com/hyperledger/grid-website.git",
+  "ssh_url": "git@github.com:hyperledger/grid-website.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "grid-rfcs",
+  "full_name": "hyperledger/grid-rfcs",
+  "git_url": "git://github.com/hyperledger/grid-rfcs.git",
+  "clone_url": "https://github.com/hyperledger/grid-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/grid-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-gateway-java",
+  "full_name": "hyperledger/fabric-gateway-java",
+  "git_url": "git://github.com/hyperledger/fabric-gateway-java.git",
+  "clone_url": "https://github.com/hyperledger/fabric-gateway-java.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-gateway-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-swift",
+  "full_name": "hyperledger/sawtooth-sdk-swift",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-swift.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-swift.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-swift.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "iroha-deploy",
+  "full_name": "hyperledger/iroha-deploy",
+  "git_url": "git://github.com/hyperledger/iroha-deploy.git",
+  "clone_url": "https://github.com/hyperledger/iroha-deploy.git",
+  "ssh_url": "git@github.com:hyperledger/iroha-deploy.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries",
+  "full_name": "hyperledger/aries",
+  "git_url": "git://github.com/hyperledger/aries.git",
+  "clone_url": "https://github.com/hyperledger/aries.git",
+  "ssh_url": "git@github.com:hyperledger/aries.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-agent",
+  "full_name": "hyperledger/aries-agent",
+  "git_url": "git://github.com/hyperledger/aries-agent.git",
+  "clone_url": "https://github.com/hyperledger/aries-agent.git",
+  "ssh_url": "git@github.com:hyperledger/aries-agent.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk",
+  "full_name": "hyperledger/aries-sdk",
+  "git_url": "git://github.com/hyperledger/aries-sdk.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-python",
+  "full_name": "hyperledger/aries-sdk-python",
+  "git_url": "git://github.com/hyperledger/aries-sdk-python.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-python.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-python.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-ruby",
+  "full_name": "hyperledger/aries-sdk-ruby",
+  "git_url": "git://github.com/hyperledger/aries-sdk-ruby.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-ruby.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-ruby.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-go",
+  "full_name": "hyperledger/aries-sdk-go",
+  "git_url": "git://github.com/hyperledger/aries-sdk-go.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-go.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-ios",
+  "full_name": "hyperledger/aries-sdk-ios",
+  "git_url": "git://github.com/hyperledger/aries-sdk-ios.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-ios.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-ios.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-java",
+  "full_name": "hyperledger/aries-sdk-java",
+  "git_url": "git://github.com/hyperledger/aries-sdk-java.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-java.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-javascript",
+  "full_name": "hyperledger/aries-sdk-javascript",
+  "git_url": "git://github.com/hyperledger/aries-sdk-javascript.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-javascript.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-javascript.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-dotnet",
+  "full_name": "hyperledger/aries-sdk-dotnet",
+  "git_url": "git://github.com/hyperledger/aries-sdk-dotnet.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-dotnet.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-dotnet.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-android",
+  "full_name": "hyperledger/aries-sdk-android",
+  "git_url": "git://github.com/hyperledger/aries-sdk-android.git",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-android.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-android.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact",
+  "full_name": "hyperledger/transact",
+  "git_url": "git://github.com/hyperledger/transact.git",
+  "clone_url": "https://github.com/hyperledger/transact.git",
+  "ssh_url": "git@github.com:hyperledger/transact.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-rfcs",
+  "full_name": "hyperledger/transact-rfcs",
+  "git_url": "git://github.com/hyperledger/transact-rfcs.git",
+  "clone_url": "https://github.com/hyperledger/transact-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/transact-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-contrib",
+  "full_name": "hyperledger/transact-contrib",
+  "git_url": "git://github.com/hyperledger/transact-contrib.git",
+  "clone_url": "https://github.com/hyperledger/transact-contrib.git",
+  "ssh_url": "git@github.com:hyperledger/transact-contrib.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-sdk-go",
+  "full_name": "hyperledger/transact-sdk-go",
+  "git_url": "git://github.com/hyperledger/transact-sdk-go.git",
+  "clone_url": "https://github.com/hyperledger/transact-sdk-go.git",
+  "ssh_url": "git@github.com:hyperledger/transact-sdk-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-protos",
+  "full_name": "hyperledger/fabric-protos",
+  "git_url": "git://github.com/hyperledger/fabric-protos.git",
+  "clone_url": "https://github.com/hyperledger/fabric-protos.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-protos.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-protos-go",
+  "full_name": "hyperledger/fabric-protos-go",
+  "git_url": "git://github.com/hyperledger/fabric-protos-go.git",
+  "clone_url": "https://github.com/hyperledger/fabric-protos-go.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-protos-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-go",
+  "full_name": "hyperledger/fabric-chaincode-go",
+  "git_url": "git://github.com/hyperledger/fabric-chaincode-go.git",
+  "clone_url": "https://github.com/hyperledger/fabric-chaincode-go.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaincode-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "homebrew-besu",
+  "full_name": "hyperledger/homebrew-besu",
+  "git_url": "git://github.com/hyperledger/homebrew-besu.git",
+  "clone_url": "https://github.com/hyperledger/homebrew-besu.git",
+  "ssh_url": "git@github.com:hyperledger/homebrew-besu.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-kms",
+  "full_name": "hyperledger/aries-kms",
+  "git_url": "git://github.com/hyperledger/aries-kms.git",
+  "clone_url": "https://github.com/hyperledger/aries-kms.git",
+  "ssh_url": "git@github.com:hyperledger/aries-kms.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "besu-permissioning-smart-contracts",
+  "full_name": "hyperledger/besu-permissioning-smart-contracts",
+  "git_url": "git://github.com/hyperledger/besu-permissioning-smart-contracts.git",
+  "clone_url": "https://github.com/hyperledger/besu-permissioning-smart-contracts.git",
+  "ssh_url": "git@github.com:hyperledger/besu-permissioning-smart-contracts.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-rfcs",
+  "full_name": "hyperledger/fabric-rfcs",
+  "git_url": "git://github.com/hyperledger/fabric-rfcs.git",
+  "clone_url": "https://github.com/hyperledger/fabric-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "iroha-tui-client",
+  "full_name": "hyperledger/iroha-tui-client",
+  "git_url": "git://github.com/hyperledger/iroha-tui-client.git",
+  "clone_url": "https://github.com/hyperledger/iroha-tui-client.git",
+  "ssh_url": "git@github.com:hyperledger/iroha-tui-client.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "IDWG",
+  "full_name": "hyperledger/IDWG",
+  "git_url": "git://github.com/hyperledger/IDWG.git",
+  "clone_url": "https://github.com/hyperledger/IDWG.git",
+  "ssh_url": "git@github.com:hyperledger/IDWG.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "CMSIG",
+  "full_name": "hyperledger/CMSIG",
+  "git_url": "git://github.com/hyperledger/CMSIG.git",
+  "clone_url": "https://github.com/hyperledger/CMSIG.git",
+  "ssh_url": "git@github.com:hyperledger/CMSIG.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-acapy-plugin-toolbox",
+  "full_name": "hyperledger/aries-acapy-plugin-toolbox",
+  "git_url": "git://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
+  "clone_url": "https://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
+  "ssh_url": "git@github.com:hyperledger/aries-acapy-plugin-toolbox.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-contract-api-go",
+  "full_name": "hyperledger/fabric-contract-api-go",
+  "git_url": "git://github.com/hyperledger/fabric-contract-api-go.git",
+  "clone_url": "https://github.com/hyperledger/fabric-contract-api-go.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-contract-api-go.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "smart-contracts-wg",
+  "full_name": "hyperledger/smart-contracts-wg",
+  "git_url": "git://github.com/hyperledger/smart-contracts-wg.git",
+  "clone_url": "https://github.com/hyperledger/smart-contracts-wg.git",
+  "ssh_url": "git@github.com:hyperledger/smart-contracts-wg.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-contrib",
+  "full_name": "hyperledger/sawtooth-contrib",
+  "git_url": "git://github.com/hyperledger/sawtooth-contrib.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-contrib.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-contrib.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-sdk-javascript",
+  "full_name": "hyperledger/transact-sdk-javascript",
+  "git_url": "git://github.com/hyperledger/transact-sdk-javascript.git",
+  "clone_url": "https://github.com/hyperledger/transact-sdk-javascript.git",
+  "ssh_url": "git@github.com:hyperledger/transact-sdk-javascript.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "chat-assets",
+  "full_name": "hyperledger/chat-assets",
+  "git_url": "git://github.com/hyperledger/chat-assets.git",
+  "clone_url": "https://github.com/hyperledger/chat-assets.git",
+  "ssh_url": "git@github.com:hyperledger/chat-assets.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "composer",
+  "full_name": "hyperledger/composer",
+  "git_url": "git://github.com/hyperledger/composer.git",
+  "clone_url": "https://github.com/hyperledger/composer.git",
+  "ssh_url": "git@github.com:hyperledger/composer.git",
+  "has_issues": false,
+  "archived": true
+}
