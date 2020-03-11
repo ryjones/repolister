@@ -26,6 +26,15 @@
   "archived": false
 }
 {
+  "name": "blockchain-verifier",
+  "full_name": "hyperledger-labs/blockchain-verifier",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-verifier.git",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-verifier.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-verifier.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "convector",
   "full_name": "hyperledger-labs/convector",
   "git_url": "git://github.com/hyperledger-labs/convector.git",
