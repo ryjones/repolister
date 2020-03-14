@@ -2,6 +2,7 @@
 set -ex
 ./repo_list hyperledger
 ./repo_list hyperledger-labs
+find . -type f -size 0 -delete
 RC=`git diff HEAD | wc -l | awk '{print $1}'`
 if [ "$RC" != "0" ]
 then

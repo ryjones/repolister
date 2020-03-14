@@ -224,15 +224,6 @@
   "archived": false
 }
 {
-  "name": "sawtooth-next-directory",
-  "full_name": "hyperledger/sawtooth-next-directory",
-  "git_url": "git://github.com/hyperledger/sawtooth-next-directory.git",
-  "clone_url": "https://github.com/hyperledger/sawtooth-next-directory.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-next-directory.git",
-  "has_issues": false,
-  "archived": true
-}
-{
   "name": "sawtooth-marketplace",
   "full_name": "hyperledger/sawtooth-marketplace",
   "git_url": "git://github.com/hyperledger/sawtooth-marketplace.git",
@@ -798,13 +789,4 @@
   "ssh_url": "git@github.com:hyperledger/chat-assets.git",
   "has_issues": false,
   "archived": false
-}
-{
-  "name": "composer",
-  "full_name": "hyperledger/composer",
-  "git_url": "git://github.com/hyperledger/composer.git",
-  "clone_url": "https://github.com/hyperledger/composer.git",
-  "ssh_url": "git@github.com:hyperledger/composer.git",
-  "has_issues": false,
-  "archived": true
 }

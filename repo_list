@@ -8,8 +8,9 @@ curl -s https://api.github.com/orgs/$1/repos?per_page=100\&page=\[1-2\] |\
       has_issues: .has_issues, archived: .archived}' \
   > $1-repos.json
 
-jq 'select(.has_issues != true)' < $1-repos.json > $1-repos-uses-jira.json
 jq 'select(.archived != true)' < $1-repos.json > $1-repos-active.json
 
-jq 'select(.has_issues == true)' < $1-repos.json > $1-repos-uses-github-issues.json
+jq 'select(.has_issues != true)' < $1-repos-active.json > $1-repos-uses-jira.json
+
+jq 'select(.has_issues == true)' < $1-repos-active.json > $1-repos-uses-github-issues.json
 jq 'select(.archived == true)' < $1-repos.json > $1-repos-archived.json

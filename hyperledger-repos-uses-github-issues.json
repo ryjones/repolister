@@ -296,15 +296,6 @@
   "archived": false
 }
 {
-  "name": "aries-ams-sqlite",
-  "full_name": "hyperledger/aries-ams-sqlite",
-  "git_url": "git://github.com/hyperledger/aries-ams-sqlite.git",
-  "clone_url": "https://github.com/hyperledger/aries-ams-sqlite.git",
-  "ssh_url": "git@github.com:hyperledger/aries-ams-sqlite.git",
-  "has_issues": true,
-  "archived": true
-}
-{
   "name": "aries-core",
   "full_name": "hyperledger/aries-core",
   "git_url": "git://github.com/hyperledger/aries-core.git",
@@ -321,15 +312,6 @@
   "ssh_url": "git@github.com:hyperledger/aries-vdri.git",
   "has_issues": true,
   "archived": false
-}
-{
-  "name": "aries-vdri-peer",
-  "full_name": "hyperledger/aries-vdri-peer",
-  "git_url": "git://github.com/hyperledger/aries-vdri-peer.git",
-  "clone_url": "https://github.com/hyperledger/aries-vdri-peer.git",
-  "ssh_url": "git@github.com:hyperledger/aries-vdri-peer.git",
-  "has_issues": true,
-  "archived": true
 }
 {
   "name": "indy-vdri-aries",
