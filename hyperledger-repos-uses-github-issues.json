@@ -367,3 +367,12 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "tsc",
+  "full_name": "hyperledger/tsc",
+  "git_url": "git://github.com/hyperledger/tsc.git",
+  "clone_url": "https://github.com/hyperledger/tsc.git",
+  "ssh_url": "git@github.com:hyperledger/tsc.git",
+  "has_issues": true,
+  "archived": false
+}
