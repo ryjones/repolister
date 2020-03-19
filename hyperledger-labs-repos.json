@@ -224,6 +224,15 @@
   "archived": false
 }
 {
+  "name": "dancap",
+  "full_name": "hyperledger-labs/dancap",
+  "git_url": "git://github.com/hyperledger-labs/dancap.git",
+  "clone_url": "https://github.com/hyperledger-labs/dancap.git",
+  "ssh_url": "git@github.com:hyperledger-labs/dancap.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "ethercluster",
   "full_name": "hyperledger-labs/ethercluster",
   "git_url": "git://github.com/hyperledger-labs/ethercluster.git",
@@ -238,6 +247,15 @@
   "git_url": "git://github.com/hyperledger-labs/eThaler.git",
   "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
   "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "chaincode-analyzer",
+  "full_name": "hyperledger-labs/chaincode-analyzer",
+  "git_url": "git://github.com/hyperledger-labs/chaincode-analyzer.git",
+  "clone_url": "https://github.com/hyperledger-labs/chaincode-analyzer.git",
+  "ssh_url": "git@github.com:hyperledger-labs/chaincode-analyzer.git",
   "has_issues": true,
   "archived": false
 }
