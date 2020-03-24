@@ -8,6 +8,15 @@
   "archived": false
 }
 {
+  "name": "fabric-sdk-py",
+  "full_name": "hyperledger/fabric-sdk-py",
+  "git_url": "git://github.com/hyperledger/fabric-sdk-py.git",
+  "clone_url": "https://github.com/hyperledger/fabric-sdk-py.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-sdk-py.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "iroha-ios",
   "full_name": "hyperledger/iroha-ios",
   "git_url": "git://github.com/hyperledger/iroha-ios.git",

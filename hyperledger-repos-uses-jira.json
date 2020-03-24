@@ -35,15 +35,6 @@
   "archived": false
 }
 {
-  "name": "fabric-sdk-py",
-  "full_name": "hyperledger/fabric-sdk-py",
-  "git_url": "git://github.com/hyperledger/fabric-sdk-py.git",
-  "clone_url": "https://github.com/hyperledger/fabric-sdk-py.git",
-  "ssh_url": "git@github.com:hyperledger/fabric-sdk-py.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "blockchain-explorer",
   "full_name": "hyperledger/blockchain-explorer",
   "git_url": "git://github.com/hyperledger/blockchain-explorer.git",

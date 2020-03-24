@@ -49,7 +49,7 @@
   "git_url": "git://github.com/hyperledger/fabric-sdk-py.git",
   "clone_url": "https://github.com/hyperledger/fabric-sdk-py.git",
   "ssh_url": "git@github.com:hyperledger/fabric-sdk-py.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
