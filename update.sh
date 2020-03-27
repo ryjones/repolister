@@ -3,10 +3,10 @@ set -ex
 ./repo_list hyperledger
 ./repo_list hyperledger-labs
 find . -type f -size 0 -delete
-RC=`git diff HEAD | wc -l | awk '{print $1}'`
+RC=`git diff HEAD hyperledger-*json | wc -l | awk '{print $1}'`
 if [ "$RC" != "0" ]
 then
-  git add *json
+  git add hyperledger-*json
   git commit -s -m "Update repos"
   git push origin master
 else
