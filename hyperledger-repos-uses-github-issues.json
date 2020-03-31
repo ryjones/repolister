@@ -385,3 +385,12 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "aries-mobileagent-xamarin-repo",
+  "full_name": "hyperledger/aries-mobileagent-xamarin-repo",
+  "git_url": "git://github.com/hyperledger/aries-mobileagent-xamarin-repo.git",
+  "clone_url": "https://github.com/hyperledger/aries-mobileagent-xamarin-repo.git",
+  "ssh_url": "git@github.com:hyperledger/aries-mobileagent-xamarin-repo.git",
+  "has_issues": true,
+  "archived": false
+}
