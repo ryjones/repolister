@@ -710,24 +710,6 @@
   "archived": false
 }
 {
-  "name": "aries-agent",
-  "full_name": "hyperledger/aries-agent",
-  "git_url": "git://github.com/hyperledger/aries-agent.git",
-  "clone_url": "https://github.com/hyperledger/aries-agent.git",
-  "ssh_url": "git@github.com:hyperledger/aries-agent.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-sdk",
-  "full_name": "hyperledger/aries-sdk",
-  "git_url": "git://github.com/hyperledger/aries-sdk.git",
-  "clone_url": "https://github.com/hyperledger/aries-sdk.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "aries-sdk-python",
   "full_name": "hyperledger/aries-sdk-python",
   "git_url": "git://github.com/hyperledger/aries-sdk-python.git",
@@ -746,24 +728,6 @@
   "archived": false
 }
 {
-  "name": "aries-sdk-go",
-  "full_name": "hyperledger/aries-sdk-go",
-  "git_url": "git://github.com/hyperledger/aries-sdk-go.git",
-  "clone_url": "https://github.com/hyperledger/aries-sdk-go.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk-go.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-sdk-ios",
-  "full_name": "hyperledger/aries-sdk-ios",
-  "git_url": "git://github.com/hyperledger/aries-sdk-ios.git",
-  "clone_url": "https://github.com/hyperledger/aries-sdk-ios.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk-ios.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "aries-sdk-java",
   "full_name": "hyperledger/aries-sdk-java",
   "git_url": "git://github.com/hyperledger/aries-sdk-java.git",
@@ -778,15 +742,6 @@
   "git_url": "git://github.com/hyperledger/aries-sdk-javascript.git",
   "clone_url": "https://github.com/hyperledger/aries-sdk-javascript.git",
   "ssh_url": "git@github.com:hyperledger/aries-sdk-javascript.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-sdk-dotnet",
-  "full_name": "hyperledger/aries-sdk-dotnet",
-  "git_url": "git://github.com/hyperledger/aries-sdk-dotnet.git",
-  "clone_url": "https://github.com/hyperledger/aries-sdk-dotnet.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk-dotnet.git",
   "has_issues": false,
   "archived": false
 }
@@ -995,42 +950,6 @@
   "clone_url": "https://github.com/hyperledger/fabric-rfcs.git",
   "ssh_url": "git@github.com:hyperledger/fabric-rfcs.git",
   "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-kms-postgres",
-  "full_name": "hyperledger/aries-kms-postgres",
-  "git_url": "git://github.com/hyperledger/aries-kms-postgres.git",
-  "clone_url": "https://github.com/hyperledger/aries-kms-postgres.git",
-  "ssh_url": "git@github.com:hyperledger/aries-kms-postgres.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-core",
-  "full_name": "hyperledger/aries-core",
-  "git_url": "git://github.com/hyperledger/aries-core.git",
-  "clone_url": "https://github.com/hyperledger/aries-core.git",
-  "ssh_url": "git@github.com:hyperledger/aries-core.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-vdri",
-  "full_name": "hyperledger/aries-vdri",
-  "git_url": "git://github.com/hyperledger/aries-vdri.git",
-  "clone_url": "https://github.com/hyperledger/aries-vdri.git",
-  "ssh_url": "git@github.com:hyperledger/aries-vdri.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "indy-vdri-aries",
-  "full_name": "hyperledger/indy-vdri-aries",
-  "git_url": "git://github.com/hyperledger/indy-vdri-aries.git",
-  "clone_url": "https://github.com/hyperledger/indy-vdri-aries.git",
-  "ssh_url": "git@github.com:hyperledger/indy-vdri-aries.git",
-  "has_issues": true,
   "archived": false
 }
 {

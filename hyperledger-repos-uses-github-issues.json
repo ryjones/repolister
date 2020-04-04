@@ -296,42 +296,6 @@
   "archived": false
 }
 {
-  "name": "aries-kms-postgres",
-  "full_name": "hyperledger/aries-kms-postgres",
-  "git_url": "git://github.com/hyperledger/aries-kms-postgres.git",
-  "clone_url": "https://github.com/hyperledger/aries-kms-postgres.git",
-  "ssh_url": "git@github.com:hyperledger/aries-kms-postgres.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-core",
-  "full_name": "hyperledger/aries-core",
-  "git_url": "git://github.com/hyperledger/aries-core.git",
-  "clone_url": "https://github.com/hyperledger/aries-core.git",
-  "ssh_url": "git@github.com:hyperledger/aries-core.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-vdri",
-  "full_name": "hyperledger/aries-vdri",
-  "git_url": "git://github.com/hyperledger/aries-vdri.git",
-  "clone_url": "https://github.com/hyperledger/aries-vdri.git",
-  "ssh_url": "git@github.com:hyperledger/aries-vdri.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "indy-vdri-aries",
-  "full_name": "hyperledger/indy-vdri-aries",
-  "git_url": "git://github.com/hyperledger/indy-vdri-aries.git",
-  "clone_url": "https://github.com/hyperledger/indy-vdri-aries.git",
-  "ssh_url": "git@github.com:hyperledger/indy-vdri-aries.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "aries-framework-javascript",
   "full_name": "hyperledger/aries-framework-javascript",
   "git_url": "git://github.com/hyperledger/aries-framework-javascript.git",
