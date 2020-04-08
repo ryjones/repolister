@@ -1096,3 +1096,12 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "besu-native",
+  "full_name": "hyperledger/besu-native",
+  "git_url": "git://github.com/hyperledger/besu-native.git",
+  "clone_url": "https://github.com/hyperledger/besu-native.git",
+  "ssh_url": "git@github.com:hyperledger/besu-native.git",
+  "has_issues": true,
+  "archived": false
+}
