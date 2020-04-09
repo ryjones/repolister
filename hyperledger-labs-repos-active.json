@@ -259,3 +259,12 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "keyhole-fabric-api-gateway",
+  "full_name": "hyperledger-labs/keyhole-fabric-api-gateway",
+  "git_url": "git://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "clone_url": "https://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "ssh_url": "git@github.com:hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "has_issues": true,
+  "archived": false
+}
