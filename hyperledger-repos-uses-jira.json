@@ -727,12 +727,3 @@
   "has_issues": false,
   "archived": false
 }
-{
-  "name": "chat-assets",
-  "full_name": "hyperledger/chat-assets",
-  "git_url": "git://github.com/hyperledger/chat-assets.git",
-  "clone_url": "https://github.com/hyperledger/chat-assets.git",
-  "ssh_url": "git@github.com:hyperledger/chat-assets.git",
-  "has_issues": false,
-  "archived": false
-}

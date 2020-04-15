@@ -1057,7 +1057,7 @@
   "git_url": "git://github.com/hyperledger/chat-assets.git",
   "clone_url": "https://github.com/hyperledger/chat-assets.git",
   "ssh_url": "git@github.com:hyperledger/chat-assets.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
