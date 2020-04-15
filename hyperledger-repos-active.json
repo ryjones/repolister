@@ -710,15 +710,6 @@
   "archived": false
 }
 {
-  "name": "aries-sdk-python",
-  "full_name": "hyperledger/aries-sdk-python",
-  "git_url": "git://github.com/hyperledger/aries-sdk-python.git",
-  "clone_url": "https://github.com/hyperledger/aries-sdk-python.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk-python.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "aries-sdk-ruby",
   "full_name": "hyperledger/aries-sdk-ruby",
   "git_url": "git://github.com/hyperledger/aries-sdk-ruby.git",
@@ -922,15 +913,6 @@
   "git_url": "git://github.com/hyperledger/homebrew-besu.git",
   "clone_url": "https://github.com/hyperledger/homebrew-besu.git",
   "ssh_url": "git@github.com:hyperledger/homebrew-besu.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-kms",
-  "full_name": "hyperledger/aries-kms",
-  "git_url": "git://github.com/hyperledger/aries-kms.git",
-  "clone_url": "https://github.com/hyperledger/aries-kms.git",
-  "ssh_url": "git@github.com:hyperledger/aries-kms.git",
   "has_issues": false,
   "archived": false
 }
