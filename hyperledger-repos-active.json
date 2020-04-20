@@ -22,7 +22,7 @@
   "git_url": "git://github.com/hyperledger/indy-plenum.git",
   "clone_url": "https://github.com/hyperledger/indy-plenum.git",
   "ssh_url": "git@github.com:hyperledger/indy-plenum.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -121,7 +121,7 @@
   "git_url": "git://github.com/hyperledger/indy-node.git",
   "clone_url": "https://github.com/hyperledger/indy-node.git",
   "ssh_url": "git@github.com:hyperledger/indy-node.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -175,7 +175,7 @@
   "git_url": "git://github.com/hyperledger/indy-sdk.git",
   "clone_url": "https://github.com/hyperledger/indy-sdk.git",
   "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {

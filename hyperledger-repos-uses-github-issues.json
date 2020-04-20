@@ -8,6 +8,15 @@
   "archived": false
 }
 {
+  "name": "indy-plenum",
+  "full_name": "hyperledger/indy-plenum",
+  "git_url": "git://github.com/hyperledger/indy-plenum.git",
+  "clone_url": "https://github.com/hyperledger/indy-plenum.git",
+  "ssh_url": "git@github.com:hyperledger/indy-plenum.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "fabric-sdk-py",
   "full_name": "hyperledger/fabric-sdk-py",
   "git_url": "git://github.com/hyperledger/fabric-sdk-py.git",
@@ -44,6 +53,15 @@
   "archived": false
 }
 {
+  "name": "indy-node",
+  "full_name": "hyperledger/indy-node",
+  "git_url": "git://github.com/hyperledger/indy-node.git",
+  "clone_url": "https://github.com/hyperledger/indy-node.git",
+  "ssh_url": "git@github.com:hyperledger/indy-node.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "cello",
   "full_name": "hyperledger/cello",
   "git_url": "git://github.com/hyperledger/cello.git",
@@ -67,6 +85,15 @@
   "git_url": "git://github.com/hyperledger/iroha-scala.git",
   "clone_url": "https://github.com/hyperledger/iroha-scala.git",
   "ssh_url": "git@github.com:hyperledger/iroha-scala.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "indy-sdk",
+  "full_name": "hyperledger/indy-sdk",
+  "git_url": "git://github.com/hyperledger/indy-sdk.git",
+  "clone_url": "https://github.com/hyperledger/indy-sdk.git",
+  "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
   "has_issues": true,
   "archived": false
 }

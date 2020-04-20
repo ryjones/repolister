@@ -8,15 +8,6 @@
   "archived": false
 }
 {
-  "name": "indy-plenum",
-  "full_name": "hyperledger/indy-plenum",
-  "git_url": "git://github.com/hyperledger/indy-plenum.git",
-  "clone_url": "https://github.com/hyperledger/indy-plenum.git",
-  "ssh_url": "git@github.com:hyperledger/indy-plenum.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "sawtooth-core",
   "full_name": "hyperledger/sawtooth-core",
   "git_url": "git://github.com/hyperledger/sawtooth-core.git",
@@ -71,15 +62,6 @@
   "archived": false
 }
 {
-  "name": "indy-node",
-  "full_name": "hyperledger/indy-node",
-  "git_url": "git://github.com/hyperledger/indy-node.git",
-  "clone_url": "https://github.com/hyperledger/indy-node.git",
-  "ssh_url": "git@github.com:hyperledger/indy-node.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "fabric-ca",
   "full_name": "hyperledger/fabric-ca",
   "git_url": "git://github.com/hyperledger/fabric-ca.git",
@@ -94,15 +76,6 @@
   "git_url": "git://github.com/hyperledger/fabric-chaintool.git",
   "clone_url": "https://github.com/hyperledger/fabric-chaintool.git",
   "ssh_url": "git@github.com:hyperledger/fabric-chaintool.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "indy-sdk",
-  "full_name": "hyperledger/indy-sdk",
-  "git_url": "git://github.com/hyperledger/indy-sdk.git",
-  "clone_url": "https://github.com/hyperledger/indy-sdk.git",
-  "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
   "has_issues": false,
   "archived": false
 }
