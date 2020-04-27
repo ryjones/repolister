@@ -268,3 +268,12 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "pluggable-hcs",
+  "full_name": "hyperledger-labs/pluggable-hcs",
+  "git_url": "git://github.com/hyperledger-labs/pluggable-hcs.git",
+  "clone_url": "https://github.com/hyperledger-labs/pluggable-hcs.git",
+  "ssh_url": "git@github.com:hyperledger-labs/pluggable-hcs.git",
+  "has_issues": true,
+  "archived": false
+}
