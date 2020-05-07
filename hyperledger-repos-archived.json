@@ -1,4 +1,13 @@
 {
+  "name": "hyperledgerwp",
+  "full_name": "hyperledger/hyperledgerwp",
+  "git_url": "git://github.com/hyperledger/hyperledgerwp.git",
+  "clone_url": "https://github.com/hyperledger/hyperledgerwp.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledgerwp.git",
+  "has_issues": false,
+  "archived": true
+}
+{
   "name": "sawtooth-next-directory",
   "full_name": "hyperledger/sawtooth-next-directory",
   "git_url": "git://github.com/hyperledger/sawtooth-next-directory.git",

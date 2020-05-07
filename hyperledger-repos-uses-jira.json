@@ -98,15 +98,6 @@
   "archived": false
 }
 {
-  "name": "hyperledgerwp",
-  "full_name": "hyperledger/hyperledgerwp",
-  "git_url": "git://github.com/hyperledger/hyperledgerwp.git",
-  "clone_url": "https://github.com/hyperledger/hyperledgerwp.git",
-  "ssh_url": "git@github.com:hyperledger/hyperledgerwp.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "fabric-samples",
   "full_name": "hyperledger/fabric-samples",
   "git_url": "git://github.com/hyperledger/fabric-samples.git",

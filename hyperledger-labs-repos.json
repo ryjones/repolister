@@ -170,6 +170,15 @@
   "archived": false
 }
 {
+  "name": "fabex",
+  "full_name": "hyperledger-labs/fabex",
+  "git_url": "git://github.com/hyperledger-labs/fabex.git",
+  "clone_url": "https://github.com/hyperledger-labs/fabex.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabex.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "inter-carrier-settlements",
   "full_name": "hyperledger-labs/inter-carrier-settlements",
   "git_url": "git://github.com/hyperledger-labs/inter-carrier-settlements.git",
@@ -247,6 +256,15 @@
   "git_url": "git://github.com/hyperledger-labs/eThaler.git",
   "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
   "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-haskell",
+  "full_name": "hyperledger-labs/fabric-chaincode-haskell",
+  "git_url": "git://github.com/hyperledger-labs/fabric-chaincode-haskell.git",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-chaincode-haskell.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-chaincode-haskell.git",
   "has_issues": true,
   "archived": false
 }
