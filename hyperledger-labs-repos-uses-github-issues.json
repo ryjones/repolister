@@ -215,15 +215,6 @@
   "archived": false
 }
 {
-  "name": "blockchain-integration-framework",
-  "full_name": "hyperledger-labs/blockchain-integration-framework",
-  "git_url": "git://github.com/hyperledger-labs/blockchain-integration-framework.git",
-  "clone_url": "https://github.com/hyperledger-labs/blockchain-integration-framework.git",
-  "ssh_url": "git@github.com:hyperledger-labs/blockchain-integration-framework.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "fabric-block-archiving",
   "full_name": "hyperledger-labs/fabric-block-archiving",
   "git_url": "git://github.com/hyperledger-labs/fabric-block-archiving.git",

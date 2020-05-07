@@ -278,15 +278,6 @@
   "archived": false
 }
 {
-  "name": "indy-agent",
-  "full_name": "hyperledger/indy-agent",
-  "git_url": "git://github.com/hyperledger/indy-agent.git",
-  "clone_url": "https://github.com/hyperledger/indy-agent.git",
-  "ssh_url": "git@github.com:hyperledger/indy-agent.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "sawtooth-raft",
   "full_name": "hyperledger/sawtooth-raft",
   "git_url": "git://github.com/hyperledger/sawtooth-raft.git",

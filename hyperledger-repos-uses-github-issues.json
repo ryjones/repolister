@@ -323,6 +323,15 @@
   "archived": false
 }
 {
+  "name": "cactus",
+  "full_name": "hyperledger/cactus",
+  "git_url": "git://github.com/hyperledger/cactus.git",
+  "clone_url": "https://github.com/hyperledger/cactus.git",
+  "ssh_url": "git@github.com:hyperledger/cactus.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-framework-javascript",
   "full_name": "hyperledger/aries-framework-javascript",
   "git_url": "git://github.com/hyperledger/aries-framework-javascript.git",
