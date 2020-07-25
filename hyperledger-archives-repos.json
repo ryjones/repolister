@@ -404,6 +404,15 @@
   "archived": true
 }
 {
+  "name": "sawtooth-ansible",
+  "full_name": "hyperledger-archives/sawtooth-ansible",
+  "git_url": "git://github.com/hyperledger-archives/sawtooth-ansible.git",
+  "clone_url": "https://github.com/hyperledger-archives/sawtooth-ansible.git",
+  "ssh_url": "git@github.com:hyperledger-archives/sawtooth-ansible.git",
+  "has_issues": false,
+  "archived": true
+}
+{
   "name": "sawtooth-arcade",
   "full_name": "hyperledger-archives/sawtooth-arcade",
   "git_url": "git://github.com/hyperledger-archives/sawtooth-arcade.git",

@@ -10,7 +10,7 @@ if [ "$RC" != "0" ]
 then
   git add hyperledger-*repos*.json
   git commit -s -m "Update repos"
-  git push origin master
+  git push origin default
 else
   echo No Updates.
 fi

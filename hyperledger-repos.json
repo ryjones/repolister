@@ -773,15 +773,6 @@
   "archived": false
 }
 {
-  "name": "sawtooth-ansible",
-  "full_name": "hyperledger/sawtooth-ansible",
-  "git_url": "git://github.com/hyperledger/sawtooth-ansible.git",
-  "clone_url": "https://github.com/hyperledger/sawtooth-ansible.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-ansible.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "sawtooth-contrib",
   "full_name": "hyperledger/sawtooth-contrib",
   "git_url": "git://github.com/hyperledger/sawtooth-contrib.git",
