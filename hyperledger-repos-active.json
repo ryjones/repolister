@@ -503,6 +503,15 @@
   "archived": false
 }
 {
+  "name": "fabric-website",
+  "full_name": "hyperledger/fabric-website",
+  "git_url": "git://github.com/hyperledger/fabric-website.git",
+  "clone_url": "https://github.com/hyperledger/fabric-website.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-website.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "grid",
   "full_name": "hyperledger/grid",
   "git_url": "git://github.com/hyperledger/grid.git",
