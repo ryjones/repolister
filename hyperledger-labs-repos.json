@@ -179,6 +179,15 @@
   "archived": false
 }
 {
+  "name": "go-perun",
+  "full_name": "hyperledger-labs/go-perun",
+  "git_url": "git://github.com/hyperledger-labs/go-perun.git",
+  "clone_url": "https://github.com/hyperledger-labs/go-perun.git",
+  "ssh_url": "git@github.com:hyperledger-labs/go-perun.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "hyperledger-community-management-tools",
   "full_name": "hyperledger-labs/hyperledger-community-management-tools",
   "git_url": "git://github.com/hyperledger-labs/hyperledger-community-management-tools.git",
@@ -266,6 +275,42 @@
   "clone_url": "https://github.com/hyperledger-labs/patient-consent.git",
   "ssh_url": "git@github.com:hyperledger-labs/patient-consent.git",
   "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-doc",
+  "full_name": "hyperledger-labs/perun-doc",
+  "git_url": "git://github.com/hyperledger-labs/perun-doc.git",
+  "clone_url": "https://github.com/hyperledger-labs/perun-doc.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-doc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-eth-contracts",
+  "full_name": "hyperledger-labs/perun-eth-contracts",
+  "git_url": "git://github.com/hyperledger-labs/perun-eth-contracts.git",
+  "clone_url": "https://github.com/hyperledger-labs/perun-eth-contracts.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-eth-contracts.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-node",
+  "full_name": "hyperledger-labs/perun-node",
+  "git_url": "git://github.com/hyperledger-labs/perun-node.git",
+  "clone_url": "https://github.com/hyperledger-labs/perun-node.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-node.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-proposals",
+  "full_name": "hyperledger-labs/perun-proposals",
+  "git_url": "git://github.com/hyperledger-labs/perun-proposals.git",
+  "clone_url": "https://github.com/hyperledger-labs/perun-proposals.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-proposals.git",
+  "has_issues": false,
   "archived": false
 }
 {

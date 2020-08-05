@@ -539,20 +539,20 @@
   "archived": false
 }
 {
+  "name": "grid-docs",
+  "full_name": "hyperledger/grid-docs",
+  "git_url": "git://github.com/hyperledger/grid-docs.git",
+  "clone_url": "https://github.com/hyperledger/grid-docs.git",
+  "ssh_url": "git@github.com:hyperledger/grid-docs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "grid-rfcs",
   "full_name": "hyperledger/grid-rfcs",
   "git_url": "git://github.com/hyperledger/grid-rfcs.git",
   "clone_url": "https://github.com/hyperledger/grid-rfcs.git",
   "ssh_url": "git@github.com:hyperledger/grid-rfcs.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "grid-website",
-  "full_name": "hyperledger/grid-website",
-  "git_url": "git://github.com/hyperledger/grid-website.git",
-  "clone_url": "https://github.com/hyperledger/grid-website.git",
-  "ssh_url": "git@github.com:hyperledger/grid-website.git",
   "has_issues": false,
   "archived": false
 }
