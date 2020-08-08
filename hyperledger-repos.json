@@ -629,6 +629,15 @@
   "archived": false
 }
 {
+  "name": "indy-node-monitor",
+  "full_name": "hyperledger/indy-node-monitor",
+  "git_url": "git://github.com/hyperledger/indy-node-monitor.git",
+  "clone_url": "https://github.com/hyperledger/indy-node-monitor.git",
+  "ssh_url": "git@github.com:hyperledger/indy-node-monitor.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "indy-plenum",
   "full_name": "hyperledger/indy-plenum",
   "git_url": "git://github.com/hyperledger/indy-plenum.git",

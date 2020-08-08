@@ -17,6 +17,15 @@
   "archived": false
 }
 {
+  "name": "besu-operator",
+  "full_name": "hyperledger-labs/besu-operator",
+  "git_url": "git://github.com/hyperledger-labs/besu-operator.git",
+  "clone_url": "https://github.com/hyperledger-labs/besu-operator.git",
+  "ssh_url": "git@github.com:hyperledger-labs/besu-operator.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "blockchain-analyzer",
   "full_name": "hyperledger-labs/blockchain-analyzer",
   "git_url": "git://github.com/hyperledger-labs/blockchain-analyzer.git",
