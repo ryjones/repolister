@@ -517,7 +517,7 @@
   "git_url": "git://github.com/hyperledger/grid.git",
   "clone_url": "https://github.com/hyperledger/grid.git",
   "ssh_url": "git@github.com:hyperledger/grid.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -689,6 +689,15 @@
   "clone_url": "https://github.com/hyperledger/iroha-deploy.git",
   "ssh_url": "git@github.com:hyperledger/iroha-deploy.git",
   "has_issues": false,
+  "archived": false
+}
+{
+  "name": "iroha-docs-l10n",
+  "full_name": "hyperledger/iroha-docs-l10n",
+  "git_url": "git://github.com/hyperledger/iroha-docs-l10n.git",
+  "clone_url": "https://github.com/hyperledger/iroha-docs-l10n.git",
+  "ssh_url": "git@github.com:hyperledger/iroha-docs-l10n.git",
+  "has_issues": true,
   "archived": false
 }
 {
