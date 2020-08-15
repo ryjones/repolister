@@ -409,7 +409,7 @@
   "git_url": "git://github.com/hyperledger/fabric-docs-i18n.git",
   "clone_url": "https://github.com/hyperledger/fabric-docs-i18n.git",
   "ssh_url": "git@github.com:hyperledger/fabric-docs-i18n.git",
-  "has_issues": true,
+  "has_issues": false,
   "archived": false
 }
 {
