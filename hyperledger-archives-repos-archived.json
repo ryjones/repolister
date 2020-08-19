@@ -341,6 +341,15 @@
   "archived": true
 }
 {
+  "name": "iroha-android",
+  "full_name": "hyperledger-archives/iroha-android",
+  "git_url": "git://github.com/hyperledger-archives/iroha-android.git",
+  "clone_url": "https://github.com/hyperledger-archives/iroha-android.git",
+  "ssh_url": "git@github.com:hyperledger-archives/iroha-android.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "iroha-api",
   "full_name": "hyperledger-archives/iroha-api",
   "git_url": "git://github.com/hyperledger-archives/iroha-api.git",
