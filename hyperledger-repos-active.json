@@ -44,6 +44,15 @@
   "archived": false
 }
 {
+  "name": "aries-agent-test-harness",
+  "full_name": "hyperledger/aries-agent-test-harness",
+  "git_url": "git://github.com/hyperledger/aries-agent-test-harness.git",
+  "clone_url": "https://github.com/hyperledger/aries-agent-test-harness.git",
+  "ssh_url": "git@github.com:hyperledger/aries-agent-test-harness.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-cloudagent-python",
   "full_name": "hyperledger/aries-cloudagent-python",
   "git_url": "git://github.com/hyperledger/aries-cloudagent-python.git",
