@@ -17,6 +17,15 @@
   "archived": false
 }
 {
+  "name": "avalon-sdk-py",
+  "full_name": "hyperledger-labs/avalon-sdk-py",
+  "git_url": "git://github.com/hyperledger-labs/avalon-sdk-py.git",
+  "clone_url": "https://github.com/hyperledger-labs/avalon-sdk-py.git",
+  "ssh_url": "git@github.com:hyperledger-labs/avalon-sdk-py.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "besu-operator",
   "full_name": "hyperledger-labs/besu-operator",
   "git_url": "git://github.com/hyperledger-labs/besu-operator.git",
@@ -49,6 +58,15 @@
   "git_url": "git://github.com/hyperledger-labs/blockchain-verifier.git",
   "clone_url": "https://github.com/hyperledger-labs/blockchain-verifier.git",
   "ssh_url": "git@github.com:hyperledger-labs/blockchain-verifier.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "business-partner-agent",
+  "full_name": "hyperledger-labs/business-partner-agent",
+  "git_url": "git://github.com/hyperledger-labs/business-partner-agent.git",
+  "clone_url": "https://github.com/hyperledger-labs/business-partner-agent.git",
+  "ssh_url": "git@github.com:hyperledger-labs/business-partner-agent.git",
   "has_issues": true,
   "archived": false
 }
@@ -265,15 +283,6 @@
   "git_url": "git://github.com/hyperledger-labs/nephos.git",
   "clone_url": "https://github.com/hyperledger-labs/nephos.git",
   "ssh_url": "git@github.com:hyperledger-labs/nephos.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "organizational-agent",
-  "full_name": "hyperledger-labs/organizational-agent",
-  "git_url": "git://github.com/hyperledger-labs/organizational-agent.git",
-  "clone_url": "https://github.com/hyperledger-labs/organizational-agent.git",
-  "ssh_url": "git@github.com:hyperledger-labs/organizational-agent.git",
   "has_issues": true,
   "archived": false
 }
