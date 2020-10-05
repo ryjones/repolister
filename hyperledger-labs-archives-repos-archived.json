@@ -1,4 +1,31 @@
 {
+  "name": "SParts",
+  "full_name": "hyperledger-labs-archives/SParts",
+  "git_url": "git://github.com/hyperledger-labs-archives/SParts.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/SParts.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/SParts.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "chaincode-analyzer",
+  "full_name": "hyperledger-labs-archives/chaincode-analyzer",
+  "git_url": "git://github.com/hyperledger-labs-archives/chaincode-analyzer.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/chaincode-analyzer.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/chaincode-analyzer.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "cordentity",
+  "full_name": "hyperledger-labs-archives/cordentity",
+  "git_url": "git://github.com/hyperledger-labs-archives/cordentity.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/cordentity.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/cordentity.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "crypto-lib",
   "full_name": "hyperledger-labs-archives/crypto-lib",
   "git_url": "git://github.com/hyperledger-labs-archives/crypto-lib.git",
@@ -8,11 +35,29 @@
   "archived": true
 }
 {
+  "name": "ethercluster",
+  "full_name": "hyperledger-labs-archives/ethercluster",
+  "git_url": "git://github.com/hyperledger-labs-archives/ethercluster.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/ethercluster.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/ethercluster.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "fabric-chrome-extension",
   "full_name": "hyperledger-labs-archives/fabric-chrome-extension",
   "git_url": "git://github.com/hyperledger-labs-archives/fabric-chrome-extension.git",
   "clone_url": "https://github.com/hyperledger-labs-archives/fabric-chrome-extension.git",
   "ssh_url": "git@github.com:hyperledger-labs-archives/fabric-chrome-extension.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "fabric-consortium-management",
+  "full_name": "hyperledger-labs-archives/fabric-consortium-management",
+  "git_url": "git://github.com/hyperledger-labs-archives/fabric-consortium-management.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/fabric-consortium-management.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/fabric-consortium-management.git",
   "has_issues": true,
   "archived": true
 }
@@ -44,6 +89,15 @@
   "archived": true
 }
 {
+  "name": "inter-carrier-settlements",
+  "full_name": "hyperledger-labs-archives/inter-carrier-settlements",
+  "git_url": "git://github.com/hyperledger-labs-archives/inter-carrier-settlements.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/inter-carrier-settlements.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/inter-carrier-settlements.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "milk-donor",
   "full_name": "hyperledger-labs-archives/milk-donor",
   "git_url": "git://github.com/hyperledger-labs-archives/milk-donor.git",
@@ -62,11 +116,29 @@
   "archived": true
 }
 {
+  "name": "patient-consent",
+  "full_name": "hyperledger-labs-archives/patient-consent",
+  "git_url": "git://github.com/hyperledger-labs-archives/patient-consent.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/patient-consent.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/patient-consent.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "payments-performance-test-harness",
   "full_name": "hyperledger-labs-archives/payments-performance-test-harness",
   "git_url": "git://github.com/hyperledger-labs-archives/payments-performance-test-harness.git",
   "clone_url": "https://github.com/hyperledger-labs-archives/payments-performance-test-harness.git",
   "ssh_url": "git@github.com:hyperledger-labs-archives/payments-performance-test-harness.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "sawtooth-healthcare",
+  "full_name": "hyperledger-labs-archives/sawtooth-healthcare",
+  "git_url": "git://github.com/hyperledger-labs-archives/sawtooth-healthcare.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/sawtooth-healthcare.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/sawtooth-healthcare.git",
   "has_issues": true,
   "archived": true
 }

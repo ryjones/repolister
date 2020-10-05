@@ -602,6 +602,15 @@
   "archived": false
 }
 {
+  "name": "indy-did-method",
+  "full_name": "hyperledger/indy-did-method",
+  "git_url": "git://github.com/hyperledger/indy-did-method.git",
+  "clone_url": "https://github.com/hyperledger/indy-did-method.git",
+  "ssh_url": "git@github.com:hyperledger/indy-did-method.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "indy-docs",
   "full_name": "hyperledger/indy-docs",
   "git_url": "git://github.com/hyperledger/indy-docs.git",
@@ -1075,6 +1084,15 @@
   "git_url": "git://github.com/hyperledger/ursa-rfcs.git",
   "clone_url": "https://github.com/hyperledger/ursa-rfcs.git",
   "ssh_url": "git@github.com:hyperledger/ursa-rfcs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa-wrapper-go",
+  "full_name": "hyperledger/ursa-wrapper-go",
+  "git_url": "git://github.com/hyperledger/ursa-wrapper-go.git",
+  "clone_url": "https://github.com/hyperledger/ursa-wrapper-go.git",
+  "ssh_url": "git@github.com:hyperledger/ursa-wrapper-go.git",
   "has_issues": true,
   "archived": false
 }

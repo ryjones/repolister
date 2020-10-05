@@ -1,13 +1,4 @@
 {
-  "name": "SParts",
-  "full_name": "hyperledger-labs/SParts",
-  "git_url": "git://github.com/hyperledger-labs/SParts.git",
-  "clone_url": "https://github.com/hyperledger-labs/SParts.git",
-  "ssh_url": "git@github.com:hyperledger-labs/SParts.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "TrustID",
   "full_name": "hyperledger-labs/TrustID",
   "git_url": "git://github.com/hyperledger-labs/TrustID.git",
@@ -80,29 +71,11 @@
   "archived": false
 }
 {
-  "name": "chaincode-analyzer",
-  "full_name": "hyperledger-labs/chaincode-analyzer",
-  "git_url": "git://github.com/hyperledger-labs/chaincode-analyzer.git",
-  "clone_url": "https://github.com/hyperledger-labs/chaincode-analyzer.git",
-  "ssh_url": "git@github.com:hyperledger-labs/chaincode-analyzer.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "convector",
   "full_name": "hyperledger-labs/convector",
   "git_url": "git://github.com/hyperledger-labs/convector.git",
   "clone_url": "https://github.com/hyperledger-labs/convector.git",
   "ssh_url": "git@github.com:hyperledger-labs/convector.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "cordentity",
-  "full_name": "hyperledger-labs/cordentity",
-  "git_url": "git://github.com/hyperledger-labs/cordentity.git",
-  "clone_url": "https://github.com/hyperledger-labs/cordentity.git",
-  "ssh_url": "git@github.com:hyperledger-labs/cordentity.git",
   "has_issues": true,
   "archived": false
 }
@@ -121,15 +94,6 @@
   "git_url": "git://github.com/hyperledger-labs/eThaler.git",
   "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
   "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "ethercluster",
-  "full_name": "hyperledger-labs/ethercluster",
-  "git_url": "git://github.com/hyperledger-labs/ethercluster.git",
-  "clone_url": "https://github.com/hyperledger-labs/ethercluster.git",
-  "ssh_url": "git@github.com:hyperledger-labs/ethercluster.git",
   "has_issues": true,
   "archived": false
 }
@@ -170,15 +134,6 @@
   "archived": false
 }
 {
-  "name": "fabric-consortium-management",
-  "full_name": "hyperledger-labs/fabric-consortium-management",
-  "git_url": "git://github.com/hyperledger-labs/fabric-consortium-management.git",
-  "clone_url": "https://github.com/hyperledger-labs/fabric-consortium-management.git",
-  "ssh_url": "git@github.com:hyperledger-labs/fabric-consortium-management.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "fabric-docs-cn",
   "full_name": "hyperledger-labs/fabric-docs-cn",
   "git_url": "git://github.com/hyperledger-labs/fabric-docs-cn.git",
@@ -203,6 +158,15 @@
   "clone_url": "https://github.com/hyperledger-labs/fabric-private-chaincode.git",
   "ssh_url": "git@github.com:hyperledger-labs/fabric-private-chaincode.git",
   "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-private-chaincode-wasm",
+  "full_name": "hyperledger-labs/fabric-private-chaincode-wasm",
+  "git_url": "git://github.com/hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "has_issues": false,
   "archived": false
 }
 {
@@ -242,15 +206,6 @@
   "archived": false
 }
 {
-  "name": "inter-carrier-settlements",
-  "full_name": "hyperledger-labs/inter-carrier-settlements",
-  "git_url": "git://github.com/hyperledger-labs/inter-carrier-settlements.git",
-  "clone_url": "https://github.com/hyperledger-labs/inter-carrier-settlements.git",
-  "ssh_url": "git@github.com:hyperledger-labs/inter-carrier-settlements.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "keyhole-fabric-api-gateway",
   "full_name": "hyperledger-labs/keyhole-fabric-api-gateway",
   "git_url": "git://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
@@ -283,15 +238,6 @@
   "git_url": "git://github.com/hyperledger-labs/nephos.git",
   "clone_url": "https://github.com/hyperledger-labs/nephos.git",
   "ssh_url": "git@github.com:hyperledger-labs/nephos.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "patient-consent",
-  "full_name": "hyperledger-labs/patient-consent",
-  "git_url": "git://github.com/hyperledger-labs/patient-consent.git",
-  "clone_url": "https://github.com/hyperledger-labs/patient-consent.git",
-  "ssh_url": "git@github.com:hyperledger-labs/patient-consent.git",
   "has_issues": true,
   "archived": false
 }
@@ -368,15 +314,6 @@
   "archived": false
 }
 {
-  "name": "sawtooth-healthcare",
-  "full_name": "hyperledger-labs/sawtooth-healthcare",
-  "git_url": "git://github.com/hyperledger-labs/sawtooth-healthcare.git",
-  "clone_url": "https://github.com/hyperledger-labs/sawtooth-healthcare.git",
-  "ssh_url": "git@github.com:hyperledger-labs/sawtooth-healthcare.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "solang",
   "full_name": "hyperledger-labs/solang",
   "git_url": "git://github.com/hyperledger-labs/solang.git",
@@ -391,15 +328,6 @@
   "git_url": "git://github.com/hyperledger-labs/solang-vscode.git",
   "clone_url": "https://github.com/hyperledger-labs/solang-vscode.git",
   "ssh_url": "git@github.com:hyperledger-labs/solang-vscode.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "sponsors",
-  "full_name": "hyperledger-labs/sponsors",
-  "git_url": "git://github.com/hyperledger-labs/sponsors.git",
-  "clone_url": "https://github.com/hyperledger-labs/sponsors.git",
-  "ssh_url": "git@github.com:hyperledger-labs/sponsors.git",
   "has_issues": true,
   "archived": false
 }
