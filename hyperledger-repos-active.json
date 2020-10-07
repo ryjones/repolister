@@ -80,6 +80,15 @@
   "archived": false
 }
 {
+  "name": "aries-framework-go-ext",
+  "full_name": "hyperledger/aries-framework-go-ext",
+  "git_url": "git://github.com/hyperledger/aries-framework-go-ext.git",
+  "clone_url": "https://github.com/hyperledger/aries-framework-go-ext.git",
+  "ssh_url": "git@github.com:hyperledger/aries-framework-go-ext.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-framework-javascript",
   "full_name": "hyperledger/aries-framework-javascript",
   "git_url": "git://github.com/hyperledger/aries-framework-javascript.git",
