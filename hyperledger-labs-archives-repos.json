@@ -8,6 +8,15 @@
   "archived": true
 }
 {
+  "name": "blockchain-analyzer",
+  "full_name": "hyperledger-labs-archives/blockchain-analyzer",
+  "git_url": "git://github.com/hyperledger-labs-archives/blockchain-analyzer.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/blockchain-analyzer.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/blockchain-analyzer.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "chaincode-analyzer",
   "full_name": "hyperledger-labs-archives/chaincode-analyzer",
   "git_url": "git://github.com/hyperledger-labs-archives/chaincode-analyzer.git",
@@ -58,6 +67,24 @@
   "git_url": "git://github.com/hyperledger-labs-archives/fabric-consortium-management.git",
   "clone_url": "https://github.com/hyperledger-labs-archives/fabric-consortium-management.git",
   "ssh_url": "git@github.com:hyperledger-labs-archives/fabric-consortium-management.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "fabric-docs-cn",
+  "full_name": "hyperledger-labs-archives/fabric-docs-cn",
+  "git_url": "git://github.com/hyperledger-labs-archives/fabric-docs-cn.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/fabric-docs-cn.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/fabric-docs-cn.git",
+  "has_issues": true,
+  "archived": true
+}
+{
+  "name": "fabric-docs-ml",
+  "full_name": "hyperledger-labs-archives/fabric-docs-ml",
+  "git_url": "git://github.com/hyperledger-labs-archives/fabric-docs-ml.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/fabric-docs-ml.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/fabric-docs-ml.git",
   "has_issues": true,
   "archived": true
 }

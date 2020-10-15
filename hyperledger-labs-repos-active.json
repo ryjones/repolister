@@ -26,15 +26,6 @@
   "archived": false
 }
 {
-  "name": "blockchain-analyzer",
-  "full_name": "hyperledger-labs/blockchain-analyzer",
-  "git_url": "git://github.com/hyperledger-labs/blockchain-analyzer.git",
-  "clone_url": "https://github.com/hyperledger-labs/blockchain-analyzer.git",
-  "ssh_url": "git@github.com:hyperledger-labs/blockchain-analyzer.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "blockchain-automation-framework",
   "full_name": "hyperledger-labs/blockchain-automation-framework",
   "git_url": "git://github.com/hyperledger-labs/blockchain-automation-framework.git",
@@ -202,6 +193,15 @@
   "git_url": "git://github.com/hyperledger-labs/minbft.git",
   "clone_url": "https://github.com/hyperledger-labs/minbft.git",
   "ssh_url": "git@github.com:hyperledger-labs/minbft.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "minifabric",
+  "full_name": "hyperledger-labs/minifabric",
+  "git_url": "git://github.com/hyperledger-labs/minifabric.git",
+  "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
+  "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
   "has_issues": true,
   "archived": false
 }

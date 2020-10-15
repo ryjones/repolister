@@ -98,6 +98,15 @@
   "archived": false
 }
 {
+  "name": "aries-framework-rs",
+  "full_name": "hyperledger/aries-framework-rs",
+  "git_url": "git://github.com/hyperledger/aries-framework-rs.git",
+  "clone_url": "https://github.com/hyperledger/aries-framework-rs.git",
+  "ssh_url": "git@github.com:hyperledger/aries-framework-rs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-mobileagent-xamarin",
   "full_name": "hyperledger/aries-mobileagent-xamarin",
   "git_url": "git://github.com/hyperledger/aries-mobileagent-xamarin.git",

@@ -26,6 +26,15 @@
   "archived": false
 }
 {
+  "name": "fabric-ca",
+  "full_name": "Hyperledger-TWGC/fabric-ca",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-ca.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-ca.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-ca.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "fabric-gm-plugins",
   "full_name": "Hyperledger-TWGC/fabric-gm-plugins",
   "git_url": "git://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
