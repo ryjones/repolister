@@ -143,6 +143,15 @@
   "archived": true
 }
 {
+  "name": "nephos",
+  "full_name": "hyperledger-labs-archives/nephos",
+  "git_url": "git://github.com/hyperledger-labs-archives/nephos.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/nephos.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/nephos.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "patient-consent",
   "full_name": "hyperledger-labs-archives/patient-consent",
   "git_url": "git://github.com/hyperledger-labs-archives/patient-consent.git",

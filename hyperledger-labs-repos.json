@@ -215,15 +215,6 @@
   "archived": false
 }
 {
-  "name": "nephos",
-  "full_name": "hyperledger-labs/nephos",
-  "git_url": "git://github.com/hyperledger-labs/nephos.git",
-  "clone_url": "https://github.com/hyperledger-labs/nephos.git",
-  "ssh_url": "git@github.com:hyperledger-labs/nephos.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "perun-doc",
   "full_name": "hyperledger-labs/perun-doc",
   "git_url": "git://github.com/hyperledger-labs/perun-doc.git",
