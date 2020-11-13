@@ -76,7 +76,7 @@
   "git_url": "git://github.com/Hyperledger-TWGC/grpc.git",
   "clone_url": "https://github.com/Hyperledger-TWGC/grpc.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/grpc.git",
-  "has_issues": true,
+  "has_issues": false,
   "archived": false
 }
 {

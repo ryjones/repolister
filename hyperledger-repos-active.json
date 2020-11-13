@@ -845,6 +845,15 @@
   "archived": false
 }
 {
+  "name": "sawtooth-docs",
+  "full_name": "hyperledger/sawtooth-docs",
+  "git_url": "git://github.com/hyperledger/sawtooth-docs.git",
+  "clone_url": "https://github.com/hyperledger/sawtooth-docs.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-docs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "sawtooth-explorer",
   "full_name": "hyperledger/sawtooth-explorer",
   "git_url": "git://github.com/hyperledger/sawtooth-explorer.git",
@@ -994,15 +1003,6 @@
   "git_url": "git://github.com/hyperledger/sawtooth-seth.git",
   "clone_url": "https://github.com/hyperledger/sawtooth-seth.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-seth.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-website",
-  "full_name": "hyperledger/sawtooth-website",
-  "git_url": "git://github.com/hyperledger/sawtooth-website.git",
-  "clone_url": "https://github.com/hyperledger/sawtooth-website.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-website.git",
   "has_issues": false,
   "archived": false
 }
