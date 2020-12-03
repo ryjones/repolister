@@ -431,6 +431,15 @@
   "archived": false
 }
 {
+  "name": "fabric-gateway",
+  "full_name": "hyperledger/fabric-gateway",
+  "git_url": "git://github.com/hyperledger/fabric-gateway.git",
+  "clone_url": "https://github.com/hyperledger/fabric-gateway.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-gateway.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "fabric-gateway-java",
   "full_name": "hyperledger/fabric-gateway-java",
   "git_url": "git://github.com/hyperledger/fabric-gateway-java.git",
