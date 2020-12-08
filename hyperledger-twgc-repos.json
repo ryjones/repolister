@@ -71,6 +71,15 @@
   "archived": false
 }
 {
+  "name": "fabric-sdk-java",
+  "full_name": "Hyperledger-TWGC/fabric-sdk-java",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-sdk-java.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-sdk-java.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-sdk-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "grpc",
   "full_name": "Hyperledger-TWGC/grpc",
   "git_url": "git://github.com/Hyperledger-TWGC/grpc.git",
