@@ -1,9 +1,9 @@
 {
-  "name": "TWGC-README",
-  "full_name": "Hyperledger-TWGC/TWGC-README",
-  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-README.git",
-  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-README.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-README.git",
+  "name": "Hyperledger-TWGC",
+  "full_name": "Hyperledger-TWGC/Hyperledger-TWGC",
+  "git_url": "git://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/Hyperledger-TWGC.git",
   "has_issues": true,
   "archived": false
 }

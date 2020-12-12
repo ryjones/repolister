@@ -296,15 +296,6 @@
   "archived": false
 }
 {
-  "name": "solang-vscode",
-  "full_name": "hyperledger-labs/solang-vscode",
-  "git_url": "git://github.com/hyperledger-labs/solang-vscode.git",
-  "clone_url": "https://github.com/hyperledger-labs/solang-vscode.git",
-  "ssh_url": "git@github.com:hyperledger-labs/solang-vscode.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "umbra",
   "full_name": "hyperledger-labs/umbra",
   "git_url": "git://github.com/hyperledger-labs/umbra.git",

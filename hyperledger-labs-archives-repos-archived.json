@@ -188,6 +188,15 @@
   "archived": true
 }
 {
+  "name": "solang-vscode",
+  "full_name": "hyperledger-labs-archives/solang-vscode",
+  "git_url": "git://github.com/hyperledger-labs-archives/solang-vscode.git",
+  "clone_url": "https://github.com/hyperledger-labs-archives/solang-vscode.git",
+  "ssh_url": "git@github.com:hyperledger-labs-archives/solang-vscode.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "solidity2chaincode",
   "full_name": "hyperledger-labs-archives/solidity2chaincode",
   "git_url": "git://github.com/hyperledger-labs-archives/solidity2chaincode.git",
