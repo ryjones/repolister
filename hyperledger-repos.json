@@ -1,4 +1,13 @@
 {
+  "name": ".github",
+  "full_name": "hyperledger/.github",
+  "git_url": "git://github.com/hyperledger/.github.git",
+  "clone_url": "https://github.com/hyperledger/.github.git",
+  "ssh_url": "git@github.com:hyperledger/.github.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "CMSIG",
   "full_name": "hyperledger/CMSIG",
   "git_url": "git://github.com/hyperledger/CMSIG.git",
@@ -49,6 +58,15 @@
   "git_url": "git://github.com/hyperledger/aries-agent-test-harness.git",
   "clone_url": "https://github.com/hyperledger/aries-agent-test-harness.git",
   "ssh_url": "git@github.com:hyperledger/aries-agent-test-harness.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "aries-askar",
+  "full_name": "hyperledger/aries-askar",
+  "git_url": "git://github.com/hyperledger/aries-askar.git",
+  "clone_url": "https://github.com/hyperledger/aries-askar.git",
+  "ssh_url": "git@github.com:hyperledger/aries-askar.git",
   "has_issues": true,
   "archived": false
 }
@@ -544,7 +562,7 @@
   "git_url": "git://github.com/hyperledger/fabric-test.git",
   "clone_url": "https://github.com/hyperledger/fabric-test.git",
   "ssh_url": "git@github.com:hyperledger/fabric-test.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -697,6 +715,15 @@
   "git_url": "git://github.com/hyperledger/indy-sdk.git",
   "clone_url": "https://github.com/hyperledger/indy-sdk.git",
   "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "indy-shared-rs",
+  "full_name": "hyperledger/indy-shared-rs",
+  "git_url": "git://github.com/hyperledger/indy-shared-rs.git",
+  "clone_url": "https://github.com/hyperledger/indy-shared-rs.git",
+  "ssh_url": "git@github.com:hyperledger/indy-shared-rs.git",
   "has_issues": true,
   "archived": false
 }
