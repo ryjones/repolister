@@ -4,8 +4,9 @@ set -ex
 curl -s https://api.github.com/users/$1/repos?per_page=100\&page=\[1-2\] |\
 	jq -c '.[] |
           {name: .name, full_name: .full_name, git_url: .git_url,
-           clone_url: .clone_url, ssh_url: .ssh_url,
-           has_issues: .has_issues, archived: .archived}' | sort | jq '.' > $1-repos.json
+           default_branch: .default_branch, clone_url: .clone_url,
+           ssh_url: .ssh_url, has_issues: .has_issues,
+           archived: .archived}' | sort | jq '.' > $1-repos.json
 
 jq 'select(.archived != true)' < $1-repos.json > $1-repos-active.json
 jq 'select(.archived == true)' < $1-repos.json > $1-repos-archived.json

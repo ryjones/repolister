@@ -2,6 +2,7 @@
   "name": "composer",
   "full_name": "hyperledger/composer",
   "git_url": "git://github.com/hyperledger/composer.git",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/composer.git",
   "ssh_url": "git@github.com:hyperledger/composer.git",
   "has_issues": false,
