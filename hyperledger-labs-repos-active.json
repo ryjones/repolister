@@ -35,6 +35,15 @@
   "archived": false
 }
 {
+  "name": "blockchain-carbon-accounting",
+  "full_name": "hyperledger-labs/blockchain-carbon-accounting",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-carbon-accounting.git",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-carbon-accounting.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-carbon-accounting.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "blockchain-verifier",
   "full_name": "hyperledger-labs/blockchain-verifier",
   "git_url": "git://github.com/hyperledger-labs/blockchain-verifier.git",

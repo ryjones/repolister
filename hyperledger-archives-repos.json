@@ -8,6 +8,15 @@
   "archived": true
 }
 {
+  "name": "besu-permissioning-smart-contracts",
+  "full_name": "hyperledger-archives/besu-permissioning-smart-contracts",
+  "git_url": "git://github.com/hyperledger-archives/besu-permissioning-smart-contracts.git",
+  "clone_url": "https://github.com/hyperledger-archives/besu-permissioning-smart-contracts.git",
+  "ssh_url": "git@github.com:hyperledger-archives/besu-permissioning-smart-contracts.git",
+  "has_issues": false,
+  "archived": true
+}
+{
   "name": "caliper",
   "full_name": "hyperledger-archives/caliper",
   "git_url": "git://github.com/hyperledger-archives/caliper.git",

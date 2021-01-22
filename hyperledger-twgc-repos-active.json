@@ -8,6 +8,15 @@
   "archived": false
 }
 {
+  "name": "TWGC-FAQ",
+  "full_name": "Hyperledger-TWGC/TWGC-FAQ",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-FAQ.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "ccs-gm",
   "full_name": "Hyperledger-TWGC/ccs-gm",
   "git_url": "git://github.com/Hyperledger-TWGC/ccs-gm.git",
