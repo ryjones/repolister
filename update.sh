@@ -11,7 +11,7 @@ if [ "$RC" != "0" ]
 then
   git add hyperledger-*repos*.json
   git commit -s -m "Update repos"
-  git push origin default
+  git push origin main
 else
   echo No Updates.
 fi
