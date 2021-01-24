@@ -1,0 +1,40 @@
+{
+  "name": "TWGC-FAQ",
+  "full_name": "Hyperledger-TWGC/TWGC-FAQ",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-FAQ.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "grpc",
+  "full_name": "Hyperledger-TWGC/grpc",
+  "git_url": "git://github.com/Hyperledger-TWGC/grpc.git",
+  "default_branch": "v1.15.0-gm",
+  "clone_url": "https://github.com/Hyperledger-TWGC/grpc.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/grpc.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "net-go-gm",
+  "full_name": "Hyperledger-TWGC/net-go-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/net-go-gm.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/net-go-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/net-go-gm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "tjfoc-gm",
+  "full_name": "Hyperledger-TWGC/tjfoc-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/tjfoc-gm.git",
+  "default_branch": "dev-fabric",
+  "clone_url": "https://github.com/Hyperledger-TWGC/tjfoc-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/tjfoc-gm.git",
+  "has_issues": true,
+  "archived": false
+}

@@ -1,0 +1,240 @@
+{
+  "name": "TrustID",
+  "full_name": "hyperledger-labs/TrustID",
+  "git_url": "git://github.com/hyperledger-labs/TrustID.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/TrustID.git",
+  "ssh_url": "git@github.com:hyperledger-labs/TrustID.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "blockchain-automation-framework",
+  "full_name": "hyperledger-labs/blockchain-automation-framework",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-automation-framework.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-automation-framework.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-automation-framework.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "blockchain-verifier",
+  "full_name": "hyperledger-labs/blockchain-verifier",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-verifier.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-verifier.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-verifier.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "business-partner-agent",
+  "full_name": "hyperledger-labs/business-partner-agent",
+  "git_url": "git://github.com/hyperledger-labs/business-partner-agent.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/business-partner-agent.git",
+  "ssh_url": "git@github.com:hyperledger-labs/business-partner-agent.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "byzantine-config",
+  "full_name": "hyperledger-labs/byzantine-config",
+  "git_url": "git://github.com/hyperledger-labs/byzantine-config.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/byzantine-config.git",
+  "ssh_url": "git@github.com:hyperledger-labs/byzantine-config.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "dancap",
+  "full_name": "hyperledger-labs/dancap",
+  "git_url": "git://github.com/hyperledger-labs/dancap.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/dancap.git",
+  "ssh_url": "git@github.com:hyperledger-labs/dancap.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "eThaler",
+  "full_name": "hyperledger-labs/eThaler",
+  "git_url": "git://github.com/hyperledger-labs/eThaler.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
+  "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabex",
+  "full_name": "hyperledger-labs/fabex",
+  "git_url": "git://github.com/hyperledger-labs/fabex.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/fabex.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabex.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-block-archiving",
+  "full_name": "hyperledger-labs/fabric-block-archiving",
+  "git_url": "git://github.com/hyperledger-labs/fabric-block-archiving.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-block-archiving.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-block-archiving.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-haskell",
+  "full_name": "hyperledger-labs/fabric-chaincode-haskell",
+  "git_url": "git://github.com/hyperledger-labs/fabric-chaincode-haskell.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-chaincode-haskell.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-chaincode-haskell.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-private-chaincode",
+  "full_name": "hyperledger-labs/fabric-private-chaincode",
+  "git_url": "git://github.com/hyperledger-labs/fabric-private-chaincode.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-private-chaincode.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-private-chaincode.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "hyperledger-fabric-based-access-control",
+  "full_name": "hyperledger-labs/hyperledger-fabric-based-access-control",
+  "git_url": "git://github.com/hyperledger-labs/hyperledger-fabric-based-access-control.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/hyperledger-fabric-based-access-control.git",
+  "ssh_url": "git@github.com:hyperledger-labs/hyperledger-fabric-based-access-control.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "keyhole-fabric-api-gateway",
+  "full_name": "hyperledger-labs/keyhole-fabric-api-gateway",
+  "git_url": "git://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "ssh_url": "git@github.com:hyperledger-labs/keyhole-fabric-api-gateway.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "minbft",
+  "full_name": "hyperledger-labs/minbft",
+  "git_url": "git://github.com/hyperledger-labs/minbft.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/minbft.git",
+  "ssh_url": "git@github.com:hyperledger-labs/minbft.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "modern-pharmacy-management",
+  "full_name": "hyperledger-labs/modern-pharmacy-management",
+  "git_url": "git://github.com/hyperledger-labs/modern-pharmacy-management.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/modern-pharmacy-management.git",
+  "ssh_url": "git@github.com:hyperledger-labs/modern-pharmacy-management.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-doc",
+  "full_name": "hyperledger-labs/perun-doc",
+  "git_url": "git://github.com/hyperledger-labs/perun-doc.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/perun-doc.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-doc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-eth-contracts",
+  "full_name": "hyperledger-labs/perun-eth-contracts",
+  "git_url": "git://github.com/hyperledger-labs/perun-eth-contracts.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/perun-eth-contracts.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-eth-contracts.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-proposals",
+  "full_name": "hyperledger-labs/perun-proposals",
+  "git_url": "git://github.com/hyperledger-labs/perun-proposals.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/perun-proposals.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-proposals.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "private-data-objects",
+  "full_name": "hyperledger-labs/private-data-objects",
+  "git_url": "git://github.com/hyperledger-labs/private-data-objects.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/private-data-objects.git",
+  "ssh_url": "git@github.com:hyperledger-labs/private-data-objects.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "private-transaction-families",
+  "full_name": "hyperledger-labs/private-transaction-families",
+  "git_url": "git://github.com/hyperledger-labs/private-transaction-families.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/private-transaction-families.git",
+  "ssh_url": "git@github.com:hyperledger-labs/private-transaction-families.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "umbra",
+  "full_name": "hyperledger-labs/umbra",
+  "git_url": "git://github.com/hyperledger-labs/umbra.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/umbra.git",
+  "ssh_url": "git@github.com:hyperledger-labs/umbra.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "university-course",
+  "full_name": "hyperledger-labs/university-course",
+  "git_url": "git://github.com/hyperledger-labs/university-course.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/university-course.git",
+  "ssh_url": "git@github.com:hyperledger-labs/university-course.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "voters",
+  "full_name": "hyperledger-labs/voters",
+  "git_url": "git://github.com/hyperledger-labs/voters.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/voters.git",
+  "ssh_url": "git@github.com:hyperledger-labs/voters.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "xcsi",
+  "full_name": "hyperledger-labs/xcsi",
+  "git_url": "git://github.com/hyperledger-labs/xcsi.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/xcsi.git",
+  "ssh_url": "git@github.com:hyperledger-labs/xcsi.git",
+  "has_issues": true,
+  "archived": false
+}

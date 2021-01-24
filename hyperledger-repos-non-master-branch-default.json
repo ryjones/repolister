@@ -1,0 +1,350 @@
+{
+  "name": ".github",
+  "full_name": "hyperledger/.github",
+  "git_url": "git://github.com/hyperledger/.github.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/.github.git",
+  "ssh_url": "git@github.com:hyperledger/.github.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "CMSIG",
+  "full_name": "hyperledger/CMSIG",
+  "git_url": "git://github.com/hyperledger/CMSIG.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/CMSIG.git",
+  "ssh_url": "git@github.com:hyperledger/CMSIG.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "IDWG",
+  "full_name": "hyperledger/IDWG",
+  "git_url": "git://github.com/hyperledger/IDWG.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/IDWG.git",
+  "ssh_url": "git@github.com:hyperledger/IDWG.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-askar",
+  "full_name": "hyperledger/aries-askar",
+  "git_url": "git://github.com/hyperledger/aries-askar.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-askar.git",
+  "ssh_url": "git@github.com:hyperledger/aries-askar.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "aries-framework-go",
+  "full_name": "hyperledger/aries-framework-go",
+  "git_url": "git://github.com/hyperledger/aries-framework-go.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-framework-go.git",
+  "ssh_url": "git@github.com:hyperledger/aries-framework-go.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "aries-framework-go-ext",
+  "full_name": "hyperledger/aries-framework-go-ext",
+  "git_url": "git://github.com/hyperledger/aries-framework-go-ext.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-framework-go-ext.git",
+  "ssh_url": "git@github.com:hyperledger/aries-framework-go-ext.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "aries-sdk-android",
+  "full_name": "hyperledger/aries-sdk-android",
+  "git_url": "git://github.com/hyperledger/aries-sdk-android.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-android.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-android.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-javascript",
+  "full_name": "hyperledger/aries-sdk-javascript",
+  "git_url": "git://github.com/hyperledger/aries-sdk-javascript.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-javascript.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-javascript.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-ruby",
+  "full_name": "hyperledger/aries-sdk-ruby",
+  "git_url": "git://github.com/hyperledger/aries-sdk-ruby.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-ruby.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-ruby.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "cactus",
+  "full_name": "hyperledger/cactus",
+  "git_url": "git://github.com/hyperledger/cactus.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/cactus.git",
+  "ssh_url": "git@github.com:hyperledger/cactus.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "cello-analytics",
+  "full_name": "hyperledger/cello-analytics",
+  "git_url": "git://github.com/hyperledger/cello-analytics.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/cello-analytics.git",
+  "ssh_url": "git@github.com:hyperledger/cello-analytics.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "chat-assets",
+  "full_name": "hyperledger/chat-assets",
+  "git_url": "git://github.com/hyperledger/chat-assets.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/chat-assets.git",
+  "ssh_url": "git@github.com:hyperledger/chat-assets.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "composer",
+  "full_name": "hyperledger/composer",
+  "git_url": "git://github.com/hyperledger/composer.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/composer.git",
+  "ssh_url": "git@github.com:hyperledger/composer.git",
+  "has_issues": false,
+  "archived": true
+}
+{
+  "name": "education-sawtooth-simple-supply",
+  "full_name": "hyperledger/education-sawtooth-simple-supply",
+  "git_url": "git://github.com/hyperledger/education-sawtooth-simple-supply.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/education-sawtooth-simple-supply.git",
+  "ssh_url": "git@github.com:hyperledger/education-sawtooth-simple-supply.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-evm",
+  "full_name": "hyperledger/fabric-chaincode-evm",
+  "git_url": "git://github.com/hyperledger/fabric-chaincode-evm.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/fabric-chaincode-evm.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-chaincode-evm.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-docs-i18n",
+  "full_name": "hyperledger/fabric-docs-i18n",
+  "git_url": "git://github.com/hyperledger/fabric-docs-i18n.git",
+  "default_branch": "release-2.2",
+  "clone_url": "https://github.com/hyperledger/fabric-docs-i18n.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-docs-i18n.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-website",
+  "full_name": "hyperledger/fabric-website",
+  "git_url": "git://github.com/hyperledger/fabric-website.git",
+  "default_branch": "gh-pages",
+  "clone_url": "https://github.com/hyperledger/fabric-website.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-website.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "hyperledger",
+  "full_name": "hyperledger/hyperledger",
+  "git_url": "git://github.com/hyperledger/hyperledger.git",
+  "default_branch": "gh-pages",
+  "clone_url": "https://github.com/hyperledger/hyperledger.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "hyperledger-hip",
+  "full_name": "hyperledger/hyperledger-hip",
+  "git_url": "git://github.com/hyperledger/hyperledger-hip.git",
+  "default_branch": "gh-pages",
+  "clone_url": "https://github.com/hyperledger/hyperledger-hip.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger-hip.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "hyperledger-rocket-chat-hubot",
+  "full_name": "hyperledger/hyperledger-rocket-chat-hubot",
+  "git_url": "git://github.com/hyperledger/hyperledger-rocket-chat-hubot.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/hyperledger-rocket-chat-hubot.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger-rocket-chat-hubot.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "hyperledger.github.io",
+  "full_name": "hyperledger/hyperledger.github.io",
+  "git_url": "git://github.com/hyperledger/hyperledger.github.io.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/hyperledger.github.io.git",
+  "ssh_url": "git@github.com:hyperledger/hyperledger.github.io.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "indy-did-method",
+  "full_name": "hyperledger/indy-did-method",
+  "git_url": "git://github.com/hyperledger/indy-did-method.git",
+  "default_branch": "default",
+  "clone_url": "https://github.com/hyperledger/indy-did-method.git",
+  "ssh_url": "git@github.com:hyperledger/indy-did-method.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "iroha-docs-l10n",
+  "full_name": "hyperledger/iroha-docs-l10n",
+  "git_url": "git://github.com/hyperledger/iroha-docs-l10n.git",
+  "default_branch": "default",
+  "clone_url": "https://github.com/hyperledger/iroha-docs-l10n.git",
+  "ssh_url": "git@github.com:hyperledger/iroha-docs-l10n.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "iroha-tui-client",
+  "full_name": "hyperledger/iroha-tui-client",
+  "git_url": "git://github.com/hyperledger/iroha-tui-client.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/iroha-tui-client.git",
+  "ssh_url": "git@github.com:hyperledger/iroha-tui-client.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "learning-materials-dev",
+  "full_name": "hyperledger/learning-materials-dev",
+  "git_url": "git://github.com/hyperledger/learning-materials-dev.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/learning-materials-dev.git",
+  "ssh_url": "git@github.com:hyperledger/learning-materials-dev.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perf-and-scale-wg",
+  "full_name": "hyperledger/perf-and-scale-wg",
+  "git_url": "git://github.com/hyperledger/perf-and-scale-wg.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/perf-and-scale-wg.git",
+  "ssh_url": "git@github.com:hyperledger/perf-and-scale-wg.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "sawtooth-sdk-swift",
+  "full_name": "hyperledger/sawtooth-sdk-swift",
+  "git_url": "git://github.com/hyperledger/sawtooth-sdk-swift.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-swift.git",
+  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-swift.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "smart-contracts-wg",
+  "full_name": "hyperledger/smart-contracts-wg",
+  "git_url": "git://github.com/hyperledger/smart-contracts-wg.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/smart-contracts-wg.git",
+  "ssh_url": "git@github.com:hyperledger/smart-contracts-wg.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-contrib",
+  "full_name": "hyperledger/transact-contrib",
+  "git_url": "git://github.com/hyperledger/transact-contrib.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/transact-contrib.git",
+  "ssh_url": "git@github.com:hyperledger/transact-contrib.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact-rfcs",
+  "full_name": "hyperledger/transact-rfcs",
+  "git_url": "git://github.com/hyperledger/transact-rfcs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/transact-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/transact-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "tsc",
+  "full_name": "hyperledger/tsc",
+  "git_url": "git://github.com/hyperledger/tsc.git",
+  "default_branch": "gh-pages",
+  "clone_url": "https://github.com/hyperledger/tsc.git",
+  "ssh_url": "git@github.com:hyperledger/tsc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa-docs",
+  "full_name": "hyperledger/ursa-docs",
+  "git_url": "git://github.com/hyperledger/ursa-docs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/ursa-docs.git",
+  "ssh_url": "git@github.com:hyperledger/ursa-docs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa-python",
+  "full_name": "hyperledger/ursa-python",
+  "git_url": "git://github.com/hyperledger/ursa-python.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/ursa-python.git",
+  "ssh_url": "git@github.com:hyperledger/ursa-python.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa-rfcs",
+  "full_name": "hyperledger/ursa-rfcs",
+  "git_url": "git://github.com/hyperledger/ursa-rfcs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/ursa-rfcs.git",
+  "ssh_url": "git@github.com:hyperledger/ursa-rfcs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa-wrapper-go",
+  "full_name": "hyperledger/ursa-wrapper-go",
+  "git_url": "git://github.com/hyperledger/ursa-wrapper-go.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/ursa-wrapper-go.git",
+  "ssh_url": "git@github.com:hyperledger/ursa-wrapper-go.git",
+  "has_issues": true,
+  "archived": false
+}

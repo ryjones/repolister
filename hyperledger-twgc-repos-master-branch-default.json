@@ -1,0 +1,120 @@
+{
+  "name": "Hyperledger-TWGC",
+  "full_name": "Hyperledger-TWGC/Hyperledger-TWGC",
+  "git_url": "git://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/Hyperledger-TWGC.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ccs-gm",
+  "full_name": "Hyperledger-TWGC/ccs-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/ccs-gm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/ccs-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/ccs-gm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric",
+  "full_name": "Hyperledger-TWGC/fabric",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-ca",
+  "full_name": "Hyperledger-TWGC/fabric-ca",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-ca.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-ca.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-ca.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-gm-plugins",
+  "full_name": "Hyperledger-TWGC/fabric-gm-plugins",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-gm-plugins.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-gm-wiki",
+  "full_name": "Hyperledger-TWGC/fabric-gm-wiki",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-gm-wiki.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-gm-wiki.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-gm-wiki.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-performance-wiki",
+  "full_name": "Hyperledger-TWGC/fabric-performance-wiki",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-performance-wiki.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-performance-wiki.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-performance-wiki.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-rfcs",
+  "full_name": "Hyperledger-TWGC/fabric-rfcs",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-rfcs.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-rfcs.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-rfcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-sdk-java",
+  "full_name": "Hyperledger-TWGC/fabric-sdk-java",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-sdk-java.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-sdk-java.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-sdk-java.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "java-gm",
+  "full_name": "Hyperledger-TWGC/java-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/java-gm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/java-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/java-gm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "node-gm",
+  "full_name": "Hyperledger-TWGC/node-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/node-gm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/node-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/node-gm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "pku-gm",
+  "full_name": "Hyperledger-TWGC/pku-gm",
+  "git_url": "git://github.com/Hyperledger-TWGC/pku-gm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/pku-gm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/pku-gm.git",
+  "has_issues": true,
+  "archived": false
+}

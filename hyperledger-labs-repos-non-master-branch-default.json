@@ -1,0 +1,140 @@
+{
+  "name": "avalon-sdk-py",
+  "full_name": "hyperledger-labs/avalon-sdk-py",
+  "git_url": "git://github.com/hyperledger-labs/avalon-sdk-py.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/avalon-sdk-py.git",
+  "ssh_url": "git@github.com:hyperledger-labs/avalon-sdk-py.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "besu-operator",
+  "full_name": "hyperledger-labs/besu-operator",
+  "git_url": "git://github.com/hyperledger-labs/besu-operator.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/besu-operator.git",
+  "ssh_url": "git@github.com:hyperledger-labs/besu-operator.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "blockchain-carbon-accounting",
+  "full_name": "hyperledger-labs/blockchain-carbon-accounting",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-carbon-accounting.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-carbon-accounting.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-carbon-accounting.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "convector",
+  "full_name": "hyperledger-labs/convector",
+  "git_url": "git://github.com/hyperledger-labs/convector.git",
+  "default_branch": "develop",
+  "clone_url": "https://github.com/hyperledger-labs/convector.git",
+  "ssh_url": "git@github.com:hyperledger-labs/convector.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-chaincode-wasm",
+  "full_name": "hyperledger-labs/fabric-chaincode-wasm",
+  "git_url": "git://github.com/hyperledger-labs/fabric-chaincode-wasm.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-chaincode-wasm.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-chaincode-wasm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-private-chaincode-wasm",
+  "full_name": "hyperledger-labs/fabric-private-chaincode-wasm",
+  "git_url": "git://github.com/hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-private-chaincode-wasm.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "go-perun",
+  "full_name": "hyperledger-labs/go-perun",
+  "git_url": "git://github.com/hyperledger-labs/go-perun.git",
+  "default_branch": "dev",
+  "clone_url": "https://github.com/hyperledger-labs/go-perun.git",
+  "ssh_url": "git@github.com:hyperledger-labs/go-perun.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "hyperledger-community-management-tools",
+  "full_name": "hyperledger-labs/hyperledger-community-management-tools",
+  "git_url": "git://github.com/hyperledger-labs/hyperledger-community-management-tools.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/hyperledger-community-management-tools.git",
+  "ssh_url": "git@github.com:hyperledger-labs/hyperledger-community-management-tools.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "hyperledger-labs.github.io",
+  "full_name": "hyperledger-labs/hyperledger-labs.github.io",
+  "git_url": "git://github.com/hyperledger-labs/hyperledger-labs.github.io.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/hyperledger-labs.github.io.git",
+  "ssh_url": "git@github.com:hyperledger-labs/hyperledger-labs.github.io.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "minifabric",
+  "full_name": "hyperledger-labs/minifabric",
+  "git_url": "git://github.com/hyperledger-labs/minifabric.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
+  "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "perun-node",
+  "full_name": "hyperledger-labs/perun-node",
+  "git_url": "git://github.com/hyperledger-labs/perun-node.git",
+  "default_branch": "develop",
+  "clone_url": "https://github.com/hyperledger-labs/perun-node.git",
+  "ssh_url": "git@github.com:hyperledger-labs/perun-node.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "pluggable-hcs",
+  "full_name": "hyperledger-labs/pluggable-hcs",
+  "git_url": "git://github.com/hyperledger-labs/pluggable-hcs.git",
+  "default_branch": "dev",
+  "clone_url": "https://github.com/hyperledger-labs/pluggable-hcs.git",
+  "ssh_url": "git@github.com:hyperledger-labs/pluggable-hcs.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "pubsub-interop",
+  "full_name": "hyperledger-labs/pubsub-interop",
+  "git_url": "git://github.com/hyperledger-labs/pubsub-interop.git",
+  "default_branch": "default",
+  "clone_url": "https://github.com/hyperledger-labs/pubsub-interop.git",
+  "ssh_url": "git@github.com:hyperledger-labs/pubsub-interop.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "solang",
+  "full_name": "hyperledger-labs/solang",
+  "git_url": "git://github.com/hyperledger-labs/solang.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/solang.git",
+  "ssh_url": "git@github.com:hyperledger-labs/solang.git",
+  "has_issues": true,
+  "archived": false
+}
