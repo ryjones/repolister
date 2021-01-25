@@ -59,16 +59,6 @@
   "archived": false
 }
 {
-  "name": "eThaler",
-  "full_name": "hyperledger-labs/eThaler",
-  "git_url": "git://github.com/hyperledger-labs/eThaler.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
-  "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "fabex",
   "full_name": "hyperledger-labs/fabex",
   "git_url": "git://github.com/hyperledger-labs/fabex.git",
@@ -135,6 +125,16 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger-labs/minbft.git",
   "ssh_url": "git@github.com:hyperledger-labs/minbft.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "minifabric",
+  "full_name": "hyperledger-labs/minifabric",
+  "git_url": "git://github.com/hyperledger-labs/minifabric.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
+  "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
   "has_issues": true,
   "archived": false
 }
@@ -225,16 +225,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger-labs/voters.git",
   "ssh_url": "git@github.com:hyperledger-labs/voters.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "xcsi",
-  "full_name": "hyperledger-labs/xcsi",
-  "git_url": "git://github.com/hyperledger-labs/xcsi.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/xcsi.git",
-  "ssh_url": "git@github.com:hyperledger-labs/xcsi.git",
   "has_issues": true,
   "archived": false
 }

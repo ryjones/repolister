@@ -39,6 +39,16 @@
   "archived": false
 }
 {
+  "name": "eThaler",
+  "full_name": "hyperledger-labs/eThaler",
+  "git_url": "git://github.com/hyperledger-labs/eThaler.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/eThaler.git",
+  "ssh_url": "git@github.com:hyperledger-labs/eThaler.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "fabric-chaincode-wasm",
   "full_name": "hyperledger-labs/fabric-chaincode-wasm",
   "git_url": "git://github.com/hyperledger-labs/fabric-chaincode-wasm.git",
@@ -89,16 +99,6 @@
   "archived": false
 }
 {
-  "name": "minifabric",
-  "full_name": "hyperledger-labs/minifabric",
-  "git_url": "git://github.com/hyperledger-labs/minifabric.git",
-  "default_branch": "main",
-  "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
-  "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "perun-node",
   "full_name": "hyperledger-labs/perun-node",
   "git_url": "git://github.com/hyperledger-labs/perun-node.git",
@@ -135,6 +135,16 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/solang.git",
   "ssh_url": "git@github.com:hyperledger-labs/solang.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "xcsi",
+  "full_name": "hyperledger-labs/xcsi",
+  "git_url": "git://github.com/hyperledger-labs/xcsi.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/xcsi.git",
+  "ssh_url": "git@github.com:hyperledger-labs/xcsi.git",
   "has_issues": true,
   "archived": false
 }
