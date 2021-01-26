@@ -99,6 +99,16 @@
   "archived": false
 }
 {
+  "name": "libsm",
+  "full_name": "Hyperledger-TWGC/libsm",
+  "git_url": "git://github.com/Hyperledger-TWGC/libsm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/libsm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/libsm.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "node-gm",
   "full_name": "Hyperledger-TWGC/node-gm",
   "git_url": "git://github.com/Hyperledger-TWGC/node-gm.git",

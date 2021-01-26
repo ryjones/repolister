@@ -1,4 +1,14 @@
 {
+  "name": "HL-StarterKit",
+  "full_name": "hyperledger-labs/HL-StarterKit",
+  "git_url": "git://github.com/hyperledger-labs/HL-StarterKit.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/HL-StarterKit.git",
+  "ssh_url": "git@github.com:hyperledger-labs/HL-StarterKit.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "TrustID",
   "full_name": "hyperledger-labs/TrustID",
   "git_url": "git://github.com/hyperledger-labs/TrustID.git",

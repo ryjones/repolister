@@ -782,7 +782,7 @@
   "name": "indy-shared-rs",
   "full_name": "hyperledger/indy-shared-rs",
   "git_url": "git://github.com/hyperledger/indy-shared-rs.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/indy-shared-rs.git",
   "ssh_url": "git@github.com:hyperledger/indy-shared-rs.git",
   "has_issues": true,

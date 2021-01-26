@@ -9,6 +9,16 @@
   "archived": false
 }
 {
+  "name": "TWGC-RFC-template",
+  "full_name": "Hyperledger-TWGC/TWGC-RFC-template",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-RFC-template.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "grpc",
   "full_name": "Hyperledger-TWGC/grpc",
   "git_url": "git://github.com/Hyperledger-TWGC/grpc.git",

@@ -569,16 +569,6 @@
   "archived": false
 }
 {
-  "name": "indy-shared-rs",
-  "full_name": "hyperledger/indy-shared-rs",
-  "git_url": "git://github.com/hyperledger/indy-shared-rs.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/indy-shared-rs.git",
-  "ssh_url": "git@github.com:hyperledger/indy-shared-rs.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "indy-test-automation",
   "full_name": "hyperledger/indy-test-automation",
   "git_url": "git://github.com/hyperledger/indy-test-automation.git",

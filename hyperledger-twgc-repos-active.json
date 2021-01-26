@@ -19,6 +19,16 @@
   "archived": false
 }
 {
+  "name": "TWGC-RFC-template",
+  "full_name": "Hyperledger-TWGC/TWGC-RFC-template",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-RFC-template.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "ccs-gm",
   "full_name": "Hyperledger-TWGC/ccs-gm",
   "git_url": "git://github.com/Hyperledger-TWGC/ccs-gm.git",
@@ -116,6 +126,16 @@
   "clone_url": "https://github.com/Hyperledger-TWGC/java-gm.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/java-gm.git",
   "has_issues": true,
+  "archived": false
+}
+{
+  "name": "libsm",
+  "full_name": "Hyperledger-TWGC/libsm",
+  "git_url": "git://github.com/Hyperledger-TWGC/libsm.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/libsm.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/libsm.git",
+  "has_issues": false,
   "archived": false
 }
 {

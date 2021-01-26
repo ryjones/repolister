@@ -219,6 +219,16 @@
   "archived": false
 }
 {
+  "name": "indy-shared-rs",
+  "full_name": "hyperledger/indy-shared-rs",
+  "git_url": "git://github.com/hyperledger/indy-shared-rs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/indy-shared-rs.git",
+  "ssh_url": "git@github.com:hyperledger/indy-shared-rs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "iroha-docs-l10n",
   "full_name": "hyperledger/iroha-docs-l10n",
   "git_url": "git://github.com/hyperledger/iroha-docs-l10n.git",
