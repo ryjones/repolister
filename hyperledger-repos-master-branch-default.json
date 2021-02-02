@@ -39,32 +39,12 @@
   "archived": false
 }
 {
-  "name": "aries-cloudagent-python",
-  "full_name": "hyperledger/aries-cloudagent-python",
-  "git_url": "git://github.com/hyperledger/aries-cloudagent-python.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-cloudagent-python.git",
-  "ssh_url": "git@github.com:hyperledger/aries-cloudagent-python.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "aries-framework-dotnet",
   "full_name": "hyperledger/aries-framework-dotnet",
   "git_url": "git://github.com/hyperledger/aries-framework-dotnet.git",
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/aries-framework-dotnet.git",
   "ssh_url": "git@github.com:hyperledger/aries-framework-dotnet.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-framework-javascript",
-  "full_name": "hyperledger/aries-framework-javascript",
-  "git_url": "git://github.com/hyperledger/aries-framework-javascript.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-framework-javascript.git",
-  "ssh_url": "git@github.com:hyperledger/aries-framework-javascript.git",
   "has_issues": true,
   "archived": false
 }
@@ -106,16 +86,6 @@
   "clone_url": "https://github.com/hyperledger/aries-sdk-java.git",
   "ssh_url": "git@github.com:hyperledger/aries-sdk-java.git",
   "has_issues": false,
-  "archived": false
-}
-{
-  "name": "aries-staticagent-python",
-  "full_name": "hyperledger/aries-staticagent-python",
-  "git_url": "git://github.com/hyperledger/aries-staticagent-python.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-staticagent-python.git",
-  "ssh_url": "git@github.com:hyperledger/aries-staticagent-python.git",
-  "has_issues": true,
   "archived": false
 }
 {
@@ -176,16 +146,6 @@
   "clone_url": "https://github.com/hyperledger/besu-native.git",
   "ssh_url": "git@github.com:hyperledger/besu-native.git",
   "has_issues": true,
-  "archived": false
-}
-{
-  "name": "blockchain-explorer",
-  "full_name": "hyperledger/blockchain-explorer",
-  "git_url": "git://github.com/hyperledger/blockchain-explorer.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/blockchain-explorer.git",
-  "ssh_url": "git@github.com:hyperledger/blockchain-explorer.git",
-  "has_issues": false,
   "archived": false
 }
 {
@@ -405,16 +365,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/fabric-samples.git",
   "ssh_url": "git@github.com:hyperledger/fabric-samples.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "fabric-sdk-go",
-  "full_name": "hyperledger/fabric-sdk-go",
-  "git_url": "git://github.com/hyperledger/fabric-sdk-go.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/fabric-sdk-go.git",
-  "ssh_url": "git@github.com:hyperledger/fabric-sdk-go.git",
   "has_issues": false,
   "archived": false
 }

@@ -128,3 +128,13 @@
   "has_issues": true,
   "archived": false
 }
+{
+  "name": "tape",
+  "full_name": "Hyperledger-TWGC/tape",
+  "git_url": "git://github.com/Hyperledger-TWGC/tape.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/tape.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/tape.git",
+  "has_issues": true,
+  "archived": false
+}

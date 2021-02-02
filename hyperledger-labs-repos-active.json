@@ -159,6 +159,16 @@
   "archived": false
 }
 {
+  "name": "fabric-opssc",
+  "full_name": "hyperledger-labs/fabric-opssc",
+  "git_url": "git://github.com/hyperledger-labs/fabric-opssc.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-opssc.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-opssc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "fabric-private-chaincode",
   "full_name": "hyperledger-labs/fabric-private-chaincode",
   "git_url": "git://github.com/hyperledger-labs/fabric-private-chaincode.git",

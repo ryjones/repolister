@@ -19,12 +19,12 @@
   "archived": false
 }
 {
-  "name": "TWGC-RFC-template",
-  "full_name": "Hyperledger-TWGC/TWGC-RFC-template",
-  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
+  "name": "TWGC-Projects",
+  "full_name": "Hyperledger-TWGC/TWGC-Projects",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-Projects.git",
   "default_branch": "main",
-  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-RFC-template.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-RFC-template.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-Projects.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-Projects.git",
   "has_issues": true,
   "archived": false
 }
@@ -165,6 +165,16 @@
   "default_branch": "master",
   "clone_url": "https://github.com/Hyperledger-TWGC/pku-gm.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/pku-gm.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "tape",
+  "full_name": "Hyperledger-TWGC/tape",
+  "git_url": "git://github.com/Hyperledger-TWGC/tape.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/tape.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/tape.git",
   "has_issues": true,
   "archived": false
 }
