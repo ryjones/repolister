@@ -189,6 +189,16 @@
   "archived": false
 }
 {
+  "name": "fabric-cli",
+  "full_name": "hyperledger/fabric-cli",
+  "git_url": "git://github.com/hyperledger/fabric-cli.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/fabric-cli.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-cli.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "fabric-docs-i18n",
   "full_name": "hyperledger/fabric-docs-i18n",
   "git_url": "git://github.com/hyperledger/fabric-docs-i18n.git",
@@ -365,6 +375,16 @@
   "default_branch": "gh-pages",
   "clone_url": "https://github.com/hyperledger/tsc.git",
   "ssh_url": "git@github.com:hyperledger/tsc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "ursa",
+  "full_name": "hyperledger/ursa",
+  "git_url": "git://github.com/hyperledger/ursa.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/ursa.git",
+  "ssh_url": "git@github.com:hyperledger/ursa.git",
   "has_issues": true,
   "archived": false
 }

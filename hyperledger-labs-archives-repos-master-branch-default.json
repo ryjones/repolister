@@ -29,16 +29,6 @@
   "archived": true
 }
 {
-  "name": "cordentity",
-  "full_name": "hyperledger-labs-archives/cordentity",
-  "git_url": "git://github.com/hyperledger-labs-archives/cordentity.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs-archives/cordentity.git",
-  "ssh_url": "git@github.com:hyperledger-labs-archives/cordentity.git",
-  "has_issues": true,
-  "archived": true
-}
-{
   "name": "crypto-lib",
   "full_name": "hyperledger-labs-archives/crypto-lib",
   "git_url": "git://github.com/hyperledger-labs-archives/crypto-lib.git",

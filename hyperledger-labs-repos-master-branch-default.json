@@ -129,16 +129,6 @@
   "archived": false
 }
 {
-  "name": "keyhole-fabric-api-gateway",
-  "full_name": "hyperledger-labs/keyhole-fabric-api-gateway",
-  "git_url": "git://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/keyhole-fabric-api-gateway.git",
-  "ssh_url": "git@github.com:hyperledger-labs/keyhole-fabric-api-gateway.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "minbft",
   "full_name": "hyperledger-labs/minbft",
   "git_url": "git://github.com/hyperledger-labs/minbft.git",
@@ -205,16 +195,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger-labs/private-data-objects.git",
   "ssh_url": "git@github.com:hyperledger-labs/private-data-objects.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "private-transaction-families",
-  "full_name": "hyperledger-labs/private-transaction-families",
-  "git_url": "git://github.com/hyperledger-labs/private-transaction-families.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/private-transaction-families.git",
-  "ssh_url": "git@github.com:hyperledger-labs/private-transaction-families.git",
   "has_issues": true,
   "archived": false
 }

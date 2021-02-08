@@ -89,6 +89,16 @@
   "archived": false
 }
 {
+  "name": "gm-jsse",
+  "full_name": "Hyperledger-TWGC/gm-jsse",
+  "git_url": "git://github.com/Hyperledger-TWGC/gm-jsse.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/gm-jsse.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/gm-jsse.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "java-gm",
   "full_name": "Hyperledger-TWGC/java-gm",
   "git_url": "git://github.com/Hyperledger-TWGC/java-gm.git",
