@@ -259,16 +259,6 @@
   "archived": false
 }
 {
-  "name": "fabric-chaintool",
-  "full_name": "hyperledger/fabric-chaintool",
-  "git_url": "git://github.com/hyperledger/fabric-chaintool.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/fabric-chaintool.git",
-  "ssh_url": "git@github.com:hyperledger/fabric-chaintool.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "fabric-config",
   "full_name": "hyperledger/fabric-config",
   "git_url": "git://github.com/hyperledger/fabric-config.git",
