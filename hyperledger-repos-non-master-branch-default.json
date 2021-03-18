@@ -29,6 +29,16 @@
   "archived": false
 }
 {
+  "name": "aries-acapy-plugin-toolbox",
+  "full_name": "hyperledger/aries-acapy-plugin-toolbox",
+  "git_url": "git://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
+  "ssh_url": "git@github.com:hyperledger/aries-acapy-plugin-toolbox.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-askar",
   "full_name": "hyperledger/aries-askar",
   "git_url": "git://github.com/hyperledger/aries-askar.git",
@@ -79,6 +89,16 @@
   "archived": false
 }
 {
+  "name": "aries-mobile-agent-react-native",
+  "full_name": "hyperledger/aries-mobile-agent-react-native",
+  "git_url": "git://github.com/hyperledger/aries-mobile-agent-react-native.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-mobile-agent-react-native.git",
+  "ssh_url": "git@github.com:hyperledger/aries-mobile-agent-react-native.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "aries-sdk-android",
   "full_name": "hyperledger/aries-sdk-android",
   "git_url": "git://github.com/hyperledger/aries-sdk-android.git",
@@ -119,6 +139,16 @@
   "archived": false
 }
 {
+  "name": "aries-toolbox",
+  "full_name": "hyperledger/aries-toolbox",
+  "git_url": "git://github.com/hyperledger/aries-toolbox.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-toolbox.git",
+  "ssh_url": "git@github.com:hyperledger/aries-toolbox.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "blockchain-explorer",
   "full_name": "hyperledger/blockchain-explorer",
   "git_url": "git://github.com/hyperledger/blockchain-explorer.git",
@@ -126,6 +156,16 @@
   "clone_url": "https://github.com/hyperledger/blockchain-explorer.git",
   "ssh_url": "git@github.com:hyperledger/blockchain-explorer.git",
   "has_issues": false,
+  "archived": false
+}
+{
+  "name": "burrow",
+  "full_name": "hyperledger/burrow",
+  "git_url": "git://github.com/hyperledger/burrow.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/burrow.git",
+  "ssh_url": "git@github.com:hyperledger/burrow.git",
+  "has_issues": true,
   "archived": false
 }
 {
@@ -179,6 +219,16 @@
   "archived": false
 }
 {
+  "name": "fabric-ca",
+  "full_name": "hyperledger/fabric-ca",
+  "git_url": "git://github.com/hyperledger/fabric-ca.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/fabric-ca.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-ca.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "fabric-chaincode-evm",
   "full_name": "hyperledger/fabric-chaincode-evm",
   "git_url": "git://github.com/hyperledger/fabric-chaincode-evm.git",
@@ -229,6 +279,26 @@
   "archived": false
 }
 {
+  "name": "grid",
+  "full_name": "hyperledger/grid",
+  "git_url": "git://github.com/hyperledger/grid.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/grid.git",
+  "ssh_url": "git@github.com:hyperledger/grid.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "grid-docs",
+  "full_name": "hyperledger/grid-docs",
+  "git_url": "git://github.com/hyperledger/grid-docs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/grid-docs.git",
+  "ssh_url": "git@github.com:hyperledger/grid-docs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "hyperledger",
   "full_name": "hyperledger/hyperledger",
   "git_url": "git://github.com/hyperledger/hyperledger.git",
@@ -272,7 +342,7 @@
   "name": "indy-did-method",
   "full_name": "hyperledger/indy-did-method",
   "git_url": "git://github.com/hyperledger/indy-did-method.git",
-  "default_branch": "default",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/indy-did-method.git",
   "ssh_url": "git@github.com:hyperledger/indy-did-method.git",
   "has_issues": false,
@@ -285,6 +355,26 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/indy-shared-rs.git",
   "ssh_url": "git@github.com:hyperledger/indy-shared-rs.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "indy-vdr",
+  "full_name": "hyperledger/indy-vdr",
+  "git_url": "git://github.com/hyperledger/indy-vdr.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/indy-vdr.git",
+  "ssh_url": "git@github.com:hyperledger/indy-vdr.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "iroha",
+  "full_name": "hyperledger/iroha",
+  "git_url": "git://github.com/hyperledger/iroha.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/iroha.git",
+  "ssh_url": "git@github.com:hyperledger/iroha.git",
   "has_issues": true,
   "archived": false
 }
@@ -305,7 +395,7 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/iroha-tui-client.git",
   "ssh_url": "git@github.com:hyperledger/iroha-tui-client.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -346,6 +436,16 @@
   "clone_url": "https://github.com/hyperledger/smart-contracts-wg.git",
   "ssh_url": "git@github.com:hyperledger/smart-contracts-wg.git",
   "has_issues": false,
+  "archived": false
+}
+{
+  "name": "transact",
+  "full_name": "hyperledger/transact",
+  "git_url": "git://github.com/hyperledger/transact.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/transact.git",
+  "ssh_url": "git@github.com:hyperledger/transact.git",
+  "has_issues": true,
   "archived": false
 }
 {

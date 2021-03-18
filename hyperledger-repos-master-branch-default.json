@@ -19,16 +19,6 @@
   "archived": false
 }
 {
-  "name": "aries-acapy-plugin-toolbox",
-  "full_name": "hyperledger/aries-acapy-plugin-toolbox",
-  "git_url": "git://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
-  "ssh_url": "git@github.com:hyperledger/aries-acapy-plugin-toolbox.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "aries-agent-test-harness",
   "full_name": "hyperledger/aries-agent-test-harness",
   "git_url": "git://github.com/hyperledger/aries-agent-test-harness.git",
@@ -89,16 +79,6 @@
   "archived": false
 }
 {
-  "name": "aries-toolbox",
-  "full_name": "hyperledger/aries-toolbox",
-  "git_url": "git://github.com/hyperledger/aries-toolbox.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-toolbox.git",
-  "ssh_url": "git@github.com:hyperledger/aries-toolbox.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "aries-vcx",
   "full_name": "hyperledger/aries-vcx",
   "git_url": "git://github.com/hyperledger/aries-vcx.git",
@@ -145,16 +125,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/besu-native.git",
   "ssh_url": "git@github.com:hyperledger/besu-native.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "burrow",
-  "full_name": "hyperledger/burrow",
-  "git_url": "git://github.com/hyperledger/burrow.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/burrow.git",
-  "ssh_url": "git@github.com:hyperledger/burrow.git",
   "has_issues": true,
   "archived": false
 }
@@ -215,16 +185,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/fabric-baseimage.git",
   "ssh_url": "git@github.com:hyperledger/fabric-baseimage.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "fabric-ca",
-  "full_name": "hyperledger/fabric-ca",
-  "git_url": "git://github.com/hyperledger/fabric-ca.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/fabric-ca.git",
-  "ssh_url": "git@github.com:hyperledger/fabric-ca.git",
   "has_issues": false,
   "archived": false
 }
@@ -389,16 +349,6 @@
   "archived": false
 }
 {
-  "name": "grid",
-  "full_name": "hyperledger/grid",
-  "git_url": "git://github.com/hyperledger/grid.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/grid.git",
-  "ssh_url": "git@github.com:hyperledger/grid.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "grid-contrib",
   "full_name": "hyperledger/grid-contrib",
   "git_url": "git://github.com/hyperledger/grid-contrib.git",
@@ -406,16 +356,6 @@
   "clone_url": "https://github.com/hyperledger/grid-contrib.git",
   "ssh_url": "git@github.com:hyperledger/grid-contrib.git",
   "has_issues": false,
-  "archived": false
-}
-{
-  "name": "grid-docs",
-  "full_name": "hyperledger/grid-docs",
-  "git_url": "git://github.com/hyperledger/grid-docs.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/grid-docs.git",
-  "ssh_url": "git@github.com:hyperledger/grid-docs.git",
-  "has_issues": true,
   "archived": false
 }
 {
@@ -509,33 +449,13 @@
   "archived": false
 }
 {
-  "name": "indy-vdr",
-  "full_name": "hyperledger/indy-vdr",
-  "git_url": "git://github.com/hyperledger/indy-vdr.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/indy-vdr.git",
-  "ssh_url": "git@github.com:hyperledger/indy-vdr.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "iroha",
-  "full_name": "hyperledger/iroha",
-  "git_url": "git://github.com/hyperledger/iroha.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha.git",
-  "ssh_url": "git@github.com:hyperledger/iroha.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "iroha-deploy",
   "full_name": "hyperledger/iroha-deploy",
   "git_url": "git://github.com/hyperledger/iroha-deploy.git",
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/iroha-deploy.git",
   "ssh_url": "git@github.com:hyperledger/iroha-deploy.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -615,7 +535,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-contrib.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-contrib.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -625,7 +545,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-core.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-core.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -645,7 +565,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-docs.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-docs.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -765,7 +685,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-java.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-java.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -775,7 +695,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-javascript.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-javascript.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -785,7 +705,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-python.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-python.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -795,7 +715,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-rust.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-rust.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -805,16 +725,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-seth.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-seth.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "transact",
-  "full_name": "hyperledger/transact",
-  "git_url": "git://github.com/hyperledger/transact.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/transact.git",
-  "ssh_url": "git@github.com:hyperledger/transact.git",
   "has_issues": false,
   "archived": false
 }

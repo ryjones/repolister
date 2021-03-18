@@ -272,7 +272,7 @@
   "name": "minifabric",
   "full_name": "hyperledger-labs/minifabric",
   "git_url": "git://github.com/hyperledger-labs/minifabric.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
   "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
   "has_issues": true,

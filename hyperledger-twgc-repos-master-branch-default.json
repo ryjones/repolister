@@ -1,4 +1,14 @@
 {
+  "name": "GM-interoperability",
+  "full_name": "Hyperledger-TWGC/GM-interoperability",
+  "git_url": "git://github.com/Hyperledger-TWGC/GM-interoperability.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/GM-interoperability.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/GM-interoperability.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "Hyperledger-TWGC",
   "full_name": "Hyperledger-TWGC/Hyperledger-TWGC",
   "git_url": "git://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
@@ -36,16 +46,6 @@
   "clone_url": "https://github.com/Hyperledger-TWGC/fabric-ca.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-ca.git",
   "has_issues": false,
-  "archived": false
-}
-{
-  "name": "fabric-gm-plugins",
-  "full_name": "Hyperledger-TWGC/fabric-gm-plugins",
-  "git_url": "git://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-gm-plugins.git",
-  "has_issues": true,
   "archived": false
 }
 {

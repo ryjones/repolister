@@ -219,6 +219,16 @@
   "archived": true
 }
 {
+  "name": "fabric-gerrit",
+  "full_name": "hyperledger-archives/fabric-gerrit",
+  "git_url": "git://github.com/hyperledger-archives/fabric-gerrit.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-archives/fabric-gerrit.git",
+  "ssh_url": "git@github.com:hyperledger-archives/fabric-gerrit.git",
+  "has_issues": false,
+  "archived": true
+}
+{
   "name": "fabric-sdk-rest",
   "full_name": "hyperledger-archives/fabric-sdk-rest",
   "git_url": "git://github.com/hyperledger-archives/fabric-sdk-rest.git",

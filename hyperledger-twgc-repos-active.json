@@ -1,4 +1,24 @@
 {
+  "name": "FAQ",
+  "full_name": "Hyperledger-TWGC/FAQ",
+  "git_url": "git://github.com/Hyperledger-TWGC/FAQ.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/FAQ.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/FAQ.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "GM-interoperability",
+  "full_name": "Hyperledger-TWGC/GM-interoperability",
+  "git_url": "git://github.com/Hyperledger-TWGC/GM-interoperability.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/Hyperledger-TWGC/GM-interoperability.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/GM-interoperability.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "Hyperledger-TWGC",
   "full_name": "Hyperledger-TWGC/Hyperledger-TWGC",
   "git_url": "git://github.com/Hyperledger-TWGC/Hyperledger-TWGC.git",
@@ -9,22 +29,12 @@
   "archived": false
 }
 {
-  "name": "TWGC-FAQ",
-  "full_name": "Hyperledger-TWGC/TWGC-FAQ",
-  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
+  "name": "TWGC-Project-Incubator",
+  "full_name": "Hyperledger-TWGC/TWGC-Project-Incubator",
+  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-Project-Incubator.git",
   "default_branch": "main",
-  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-FAQ.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-FAQ.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "TWGC-Projects",
-  "full_name": "Hyperledger-TWGC/TWGC-Projects",
-  "git_url": "git://github.com/Hyperledger-TWGC/TWGC-Projects.git",
-  "default_branch": "main",
-  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-Projects.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-Projects.git",
+  "clone_url": "https://github.com/Hyperledger-TWGC/TWGC-Project-Incubator.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/TWGC-Project-Incubator.git",
   "has_issues": true,
   "archived": false
 }
@@ -59,12 +69,12 @@
   "archived": false
 }
 {
-  "name": "fabric-gm-plugins",
-  "full_name": "Hyperledger-TWGC/fabric-gm-plugins",
-  "git_url": "git://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-gm-plugins.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-gm-plugins.git",
+  "name": "fabric-evaluation-JRT0184",
+  "full_name": "Hyperledger-TWGC/fabric-evaluation-JRT0184",
+  "git_url": "git://github.com/Hyperledger-TWGC/fabric-evaluation-JRT0184.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/fabric-evaluation-JRT0184.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/fabric-evaluation-JRT0184.git",
   "has_issues": true,
   "archived": false
 }

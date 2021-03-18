@@ -139,16 +139,6 @@
   "archived": false
 }
 {
-  "name": "minifabric",
-  "full_name": "hyperledger-labs/minifabric",
-  "git_url": "git://github.com/hyperledger-labs/minifabric.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/minifabric.git",
-  "ssh_url": "git@github.com:hyperledger-labs/minifabric.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "modern-pharmacy-management",
   "full_name": "hyperledger-labs/modern-pharmacy-management",
   "git_url": "git://github.com/hyperledger-labs/modern-pharmacy-management.git",
