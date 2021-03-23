@@ -409,6 +409,16 @@
   "archived": false
 }
 {
+  "name": "weaver-dlt-interoperability",
+  "full_name": "hyperledger-labs/weaver-dlt-interoperability",
+  "git_url": "git://github.com/hyperledger-labs/weaver-dlt-interoperability.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/weaver-dlt-interoperability.git",
+  "ssh_url": "git@github.com:hyperledger-labs/weaver-dlt-interoperability.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "xcsi",
   "full_name": "hyperledger-labs/xcsi",
   "git_url": "git://github.com/hyperledger-labs/xcsi.git",
