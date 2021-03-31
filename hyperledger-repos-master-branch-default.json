@@ -329,112 +329,12 @@
   "archived": false
 }
 {
-  "name": "sawtooth-contrib",
-  "full_name": "hyperledger/sawtooth-contrib",
-  "git_url": "git://github.com/hyperledger/sawtooth-contrib.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-contrib.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-contrib.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "sawtooth-core",
-  "full_name": "hyperledger/sawtooth-core",
-  "git_url": "git://github.com/hyperledger/sawtooth-core.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-core.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-core.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "sawtooth-devmode",
-  "full_name": "hyperledger/sawtooth-devmode",
-  "git_url": "git://github.com/hyperledger/sawtooth-devmode.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-devmode.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-devmode.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-docs",
-  "full_name": "hyperledger/sawtooth-docs",
-  "git_url": "git://github.com/hyperledger/sawtooth-docs.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-docs.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-docs.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "sawtooth-explorer",
-  "full_name": "hyperledger/sawtooth-explorer",
-  "git_url": "git://github.com/hyperledger/sawtooth-explorer.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-explorer.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-explorer.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-lib",
-  "full_name": "hyperledger/sawtooth-lib",
-  "git_url": "git://github.com/hyperledger/sawtooth-lib.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-lib.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-lib.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-marketplace",
-  "full_name": "hyperledger/sawtooth-marketplace",
-  "git_url": "git://github.com/hyperledger/sawtooth-marketplace.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-marketplace.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-marketplace.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-pbft",
-  "full_name": "hyperledger/sawtooth-pbft",
-  "git_url": "git://github.com/hyperledger/sawtooth-pbft.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-pbft.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-pbft.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-poet",
-  "full_name": "hyperledger/sawtooth-poet",
-  "git_url": "git://github.com/hyperledger/sawtooth-poet.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-poet.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-poet.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "sawtooth-raft",
   "full_name": "hyperledger/sawtooth-raft",
   "git_url": "git://github.com/hyperledger/sawtooth-raft.git",
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-raft.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-raft.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "sawtooth-rfcs",
-  "full_name": "hyperledger/sawtooth-rfcs",
-  "git_url": "git://github.com/hyperledger/sawtooth-rfcs.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-rfcs.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-rfcs.git",
   "has_issues": false,
   "archived": false
 }
@@ -505,16 +405,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-python.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-python.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "sawtooth-sdk-rust",
-  "full_name": "hyperledger/sawtooth-sdk-rust",
-  "git_url": "git://github.com/hyperledger/sawtooth-sdk-rust.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/sawtooth-sdk-rust.git",
-  "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-rust.git",
   "has_issues": true,
   "archived": false
 }
