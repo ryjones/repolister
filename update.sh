@@ -5,6 +5,8 @@ set -ex
 ./repo_list hyperledger-labs-archives
 ./repo_list hyperledger-archives
 ./repo_list hyperledger-twgc
+./repo_list hyperledger-tooling
+./repo_list hyperledger-landscape
 find . -type f -size 0 -delete
 RC=`git diff HEAD hyperledger-*repos*.json | wc -l | awk '{print $1}'`
 if [ "$RC" != "0" ]
