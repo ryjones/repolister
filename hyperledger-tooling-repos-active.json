@@ -1,0 +1,30 @@
+{
+  "name": "github-contributors-action",
+  "full_name": "hyperledger-tooling/github-contributors-action",
+  "git_url": "git://github.com/hyperledger-tooling/github-contributors-action.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-tooling/github-contributors-action.git",
+  "ssh_url": "git@github.com:hyperledger-tooling/github-contributors-action.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "hyperledger-updates",
+  "full_name": "hyperledger-tooling/hyperledger-updates",
+  "git_url": "git://github.com/hyperledger-tooling/hyperledger-updates.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-tooling/hyperledger-updates.git",
+  "ssh_url": "git@github.com:hyperledger-tooling/hyperledger-updates.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "start-here-hyperledger",
+  "full_name": "hyperledger-tooling/start-here-hyperledger",
+  "git_url": "git://github.com/hyperledger-tooling/start-here-hyperledger.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-tooling/start-here-hyperledger.git",
+  "ssh_url": "git@github.com:hyperledger-tooling/start-here-hyperledger.git",
+  "has_issues": true,
+  "archived": false
+}

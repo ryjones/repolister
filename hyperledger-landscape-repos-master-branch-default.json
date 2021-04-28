@@ -1,0 +1,10 @@
+{
+  "name": "hl-landscape",
+  "full_name": "hyperledger-landscape/hl-landscape",
+  "git_url": "git://github.com/hyperledger-landscape/hl-landscape.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-landscape/hl-landscape.git",
+  "ssh_url": "git@github.com:hyperledger-landscape/hl-landscape.git",
+  "has_issues": false,
+  "archived": false
+}

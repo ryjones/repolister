@@ -1,14 +1,4 @@
 {
-  "name": ".github",
-  "full_name": "hyperledger/.github",
-  "git_url": "git://github.com/hyperledger/.github.git",
-  "default_branch": "main",
-  "clone_url": "https://github.com/hyperledger/.github.git",
-  "ssh_url": "git@github.com:hyperledger/.github.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "CMSIG",
   "full_name": "hyperledger/CMSIG",
   "git_url": "git://github.com/hyperledger/CMSIG.git",
@@ -529,6 +519,16 @@
   "archived": false
 }
 {
+  "name": "fabric-private-chaincode",
+  "full_name": "hyperledger/fabric-private-chaincode",
+  "git_url": "git://github.com/hyperledger/fabric-private-chaincode.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/fabric-private-chaincode.git",
+  "ssh_url": "git@github.com:hyperledger/fabric-private-chaincode.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "fabric-protos",
   "full_name": "hyperledger/fabric-protos",
   "git_url": "git://github.com/hyperledger/fabric-protos.git",
@@ -805,7 +805,7 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/indy-test-automation.git",
   "ssh_url": "git@github.com:hyperledger/indy-test-automation.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -1042,10 +1042,10 @@
   "name": "sawtooth-raft",
   "full_name": "hyperledger/sawtooth-raft",
   "git_url": "git://github.com/hyperledger/sawtooth-raft.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-raft.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-raft.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
@@ -1062,17 +1062,17 @@
   "name": "sawtooth-sabre",
   "full_name": "hyperledger/sawtooth-sabre",
   "git_url": "git://github.com/hyperledger/sawtooth-sabre.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sabre.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sabre.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
   "name": "sawtooth-sdk-cxx",
   "full_name": "hyperledger/sawtooth-sdk-cxx",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-cxx.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-cxx.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-cxx.git",
   "has_issues": true,
@@ -1082,7 +1082,7 @@
   "name": "sawtooth-sdk-dotnet",
   "full_name": "hyperledger/sawtooth-sdk-dotnet",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-dotnet.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-dotnet.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-dotnet.git",
   "has_issues": true,
@@ -1092,17 +1092,17 @@
   "name": "sawtooth-sdk-go",
   "full_name": "hyperledger/sawtooth-sdk-go",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-go.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-go.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-go.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
   "name": "sawtooth-sdk-java",
   "full_name": "hyperledger/sawtooth-sdk-java",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-java.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-java.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-java.git",
   "has_issues": true,
@@ -1112,7 +1112,7 @@
   "name": "sawtooth-sdk-javascript",
   "full_name": "hyperledger/sawtooth-sdk-javascript",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-javascript.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-javascript.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-javascript.git",
   "has_issues": true,
@@ -1122,7 +1122,7 @@
   "name": "sawtooth-sdk-python",
   "full_name": "hyperledger/sawtooth-sdk-python",
   "git_url": "git://github.com/hyperledger/sawtooth-sdk-python.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-python.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-python.git",
   "has_issues": true,
@@ -1152,10 +1152,10 @@
   "name": "sawtooth-seth",
   "full_name": "hyperledger/sawtooth-seth",
   "git_url": "git://github.com/hyperledger/sawtooth-seth.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-seth.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-seth.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {

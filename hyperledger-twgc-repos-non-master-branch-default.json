@@ -9,6 +9,16 @@
   "archived": false
 }
 {
+  "name": "Learning-Material",
+  "full_name": "Hyperledger-TWGC/Learning-Material",
+  "git_url": "git://github.com/Hyperledger-TWGC/Learning-Material.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/Hyperledger-TWGC/Learning-Material.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/Learning-Material.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "TWGC-Project-Incubator",
   "full_name": "Hyperledger-TWGC/TWGC-Project-Incubator",
   "git_url": "git://github.com/Hyperledger-TWGC/TWGC-Project-Incubator.git",
@@ -46,6 +56,16 @@
   "clone_url": "https://github.com/Hyperledger-TWGC/net-go-gm.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/net-go-gm.git",
   "has_issues": true,
+  "archived": false
+}
+{
+  "name": "sdf",
+  "full_name": "Hyperledger-TWGC/sdf",
+  "git_url": "git://github.com/Hyperledger-TWGC/sdf.git",
+  "default_branch": "bate",
+  "clone_url": "https://github.com/Hyperledger-TWGC/sdf.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/sdf.git",
+  "has_issues": false,
   "archived": false
 }
 {

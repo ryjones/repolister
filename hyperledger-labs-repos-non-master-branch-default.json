@@ -39,6 +39,16 @@
   "archived": false
 }
 {
+  "name": "blockchain-verifier",
+  "full_name": "hyperledger-labs/blockchain-verifier",
+  "git_url": "git://github.com/hyperledger-labs/blockchain-verifier.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/blockchain-verifier.git",
+  "ssh_url": "git@github.com:hyperledger-labs/blockchain-verifier.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "convector",
   "full_name": "hyperledger-labs/convector",
   "git_url": "git://github.com/hyperledger-labs/convector.git",
@@ -139,12 +149,12 @@
   "archived": false
 }
 {
-  "name": "perun-node",
-  "full_name": "hyperledger-labs/perun-node",
-  "git_url": "git://github.com/hyperledger-labs/perun-node.git",
-  "default_branch": "develop",
-  "clone_url": "https://github.com/hyperledger-labs/perun-node.git",
-  "ssh_url": "git@github.com:hyperledger-labs/perun-node.git",
+  "name": "mirbft",
+  "full_name": "hyperledger-labs/mirbft",
+  "git_url": "git://github.com/hyperledger-labs/mirbft.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/mirbft.git",
+  "ssh_url": "git@github.com:hyperledger-labs/mirbft.git",
   "has_issues": true,
   "archived": false
 }
