@@ -19,6 +19,16 @@
   "archived": true
 }
 {
+  "name": "hyperledger-rocket-chat-hubot",
+  "full_name": "hyperledger-archives/hyperledger-rocket-chat-hubot",
+  "git_url": "git://github.com/hyperledger-archives/hyperledger-rocket-chat-hubot.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-archives/hyperledger-rocket-chat-hubot.git",
+  "ssh_url": "git@github.com:hyperledger-archives/hyperledger-rocket-chat-hubot.git",
+  "has_issues": true,
+  "archived": true
+}
+{
   "name": "libiroha",
   "full_name": "hyperledger-archives/libiroha",
   "git_url": "git://github.com/hyperledger-archives/libiroha.git",

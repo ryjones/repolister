@@ -509,16 +509,6 @@
   "archived": false
 }
 {
-  "name": "hyperledger-rocket-chat-hubot",
-  "full_name": "hyperledger/hyperledger-rocket-chat-hubot",
-  "git_url": "git://github.com/hyperledger/hyperledger-rocket-chat-hubot.git",
-  "default_branch": "main",
-  "clone_url": "https://github.com/hyperledger/hyperledger-rocket-chat-hubot.git",
-  "ssh_url": "git@github.com:hyperledger/hyperledger-rocket-chat-hubot.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "hyperledger.github.io",
   "full_name": "hyperledger/hyperledger.github.io",
   "git_url": "git://github.com/hyperledger/hyperledger.github.io.git",

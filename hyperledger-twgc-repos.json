@@ -209,16 +209,6 @@
   "archived": false
 }
 {
-  "name": "sdf",
-  "full_name": "Hyperledger-TWGC/sdf",
-  "git_url": "git://github.com/Hyperledger-TWGC/sdf.git",
-  "default_branch": "bate",
-  "clone_url": "https://github.com/Hyperledger-TWGC/sdf.git",
-  "ssh_url": "git@github.com:Hyperledger-TWGC/sdf.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "tape",
   "full_name": "Hyperledger-TWGC/tape",
   "git_url": "git://github.com/Hyperledger-TWGC/tape.git",
