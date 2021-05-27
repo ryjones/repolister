@@ -59,6 +59,16 @@
   "archived": false
 }
 {
+  "name": "sdf-go",
+  "full_name": "Hyperledger-TWGC/sdf-go",
+  "git_url": "git://github.com/Hyperledger-TWGC/sdf-go.git",
+  "default_branch": "bate",
+  "clone_url": "https://github.com/Hyperledger-TWGC/sdf-go.git",
+  "ssh_url": "git@github.com:Hyperledger-TWGC/sdf-go.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "tjfoc-gm",
   "full_name": "Hyperledger-TWGC/tjfoc-gm",
   "git_url": "git://github.com/Hyperledger-TWGC/tjfoc-gm.git",

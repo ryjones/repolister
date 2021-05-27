@@ -159,26 +159,6 @@
   "archived": false
 }
 {
-  "name": "grid-contrib",
-  "full_name": "hyperledger/grid-contrib",
-  "git_url": "git://github.com/hyperledger/grid-contrib.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/grid-contrib.git",
-  "ssh_url": "git@github.com:hyperledger/grid-contrib.git",
-  "has_issues": false,
-  "archived": false
-}
-{
-  "name": "grid-rfcs",
-  "full_name": "hyperledger/grid-rfcs",
-  "git_url": "git://github.com/hyperledger/grid-rfcs.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/grid-rfcs.git",
-  "ssh_url": "git@github.com:hyperledger/grid-rfcs.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "homebrew-besu",
   "full_name": "hyperledger/homebrew-besu",
   "git_url": "git://github.com/hyperledger/homebrew-besu.git",

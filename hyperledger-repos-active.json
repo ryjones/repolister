@@ -632,7 +632,7 @@
   "name": "grid-contrib",
   "full_name": "hyperledger/grid-contrib",
   "git_url": "git://github.com/hyperledger/grid-contrib.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/grid-contrib.git",
   "ssh_url": "git@github.com:hyperledger/grid-contrib.git",
   "has_issues": false,
@@ -652,7 +652,7 @@
   "name": "grid-rfcs",
   "full_name": "hyperledger/grid-rfcs",
   "git_url": "git://github.com/hyperledger/grid-rfcs.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/grid-rfcs.git",
   "ssh_url": "git@github.com:hyperledger/grid-rfcs.git",
   "has_issues": false,
@@ -1125,7 +1125,7 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/sawtooth-sdk-swift.git",
   "ssh_url": "git@github.com:hyperledger/sawtooth-sdk-swift.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
