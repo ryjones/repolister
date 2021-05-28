@@ -212,7 +212,7 @@
   "name": "sdf-go",
   "full_name": "Hyperledger-TWGC/sdf-go",
   "git_url": "git://github.com/Hyperledger-TWGC/sdf-go.git",
-  "default_branch": "bate",
+  "default_branch": "beta",
   "clone_url": "https://github.com/Hyperledger-TWGC/sdf-go.git",
   "ssh_url": "git@github.com:Hyperledger-TWGC/sdf-go.git",
   "has_issues": true,

@@ -32,7 +32,7 @@
   "name": "acapy-java-client",
   "full_name": "hyperledger-labs/acapy-java-client",
   "git_url": "git://github.com/hyperledger-labs/acapy-java-client.git",
-  "default_branch": "main",
+  "default_branch": "master",
   "clone_url": "https://github.com/hyperledger-labs/acapy-java-client.git",
   "ssh_url": "git@github.com:hyperledger-labs/acapy-java-client.git",
   "has_issues": true,
@@ -236,6 +236,26 @@
   "clone_url": "https://github.com/hyperledger-labs/fabric-private-chaincode-wasm.git",
   "ssh_url": "git@github.com:hyperledger-labs/fabric-private-chaincode-wasm.git",
   "has_issues": false,
+  "archived": false
+}
+{
+  "name": "fabric-smart-client",
+  "full_name": "hyperledger-labs/fabric-smart-client",
+  "git_url": "git://github.com/hyperledger-labs/fabric-smart-client.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-smart-client.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-smart-client.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "fabric-token-sdk",
+  "full_name": "hyperledger-labs/fabric-token-sdk",
+  "git_url": "git://github.com/hyperledger-labs/fabric-token-sdk.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-token-sdk.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-token-sdk.git",
+  "has_issues": true,
   "archived": false
 }
 {

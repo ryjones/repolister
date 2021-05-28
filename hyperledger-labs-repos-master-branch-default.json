@@ -29,6 +29,16 @@
   "archived": false
 }
 {
+  "name": "acapy-java-client",
+  "full_name": "hyperledger-labs/acapy-java-client",
+  "git_url": "git://github.com/hyperledger-labs/acapy-java-client.git",
+  "default_branch": "master",
+  "clone_url": "https://github.com/hyperledger-labs/acapy-java-client.git",
+  "ssh_url": "git@github.com:hyperledger-labs/acapy-java-client.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "blockchain-analyzer",
   "full_name": "hyperledger-labs/blockchain-analyzer",
   "git_url": "git://github.com/hyperledger-labs/blockchain-analyzer.git",
