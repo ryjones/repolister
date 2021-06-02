@@ -52,7 +52,7 @@
   "name": "business-partner-agent-acapy-chart",
   "full_name": "hyperledger-labs/business-partner-agent-acapy-chart",
   "git_url": "git://github.com/hyperledger-labs/business-partner-agent-acapy-chart.git",
-  "default_branch": "gh-pages",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/business-partner-agent-acapy-chart.git",
   "ssh_url": "git@github.com:hyperledger-labs/business-partner-agent-acapy-chart.git",
   "has_issues": true,
@@ -62,7 +62,7 @@
   "name": "business-partner-agent-chart",
   "full_name": "hyperledger-labs/business-partner-agent-chart",
   "git_url": "git://github.com/hyperledger-labs/business-partner-agent-chart.git",
-  "default_branch": "gh-pages",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/business-partner-agent-chart.git",
   "ssh_url": "git@github.com:hyperledger-labs/business-partner-agent-chart.git",
   "has_issues": true,
@@ -265,6 +265,46 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/xcsi.git",
   "ssh_url": "git@github.com:hyperledger-labs/xcsi.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "yui-corda-ibc",
+  "full_name": "hyperledger-labs/yui-corda-ibc",
+  "git_url": "git://github.com/hyperledger-labs/yui-corda-ibc.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/yui-corda-ibc.git",
+  "ssh_url": "git@github.com:hyperledger-labs/yui-corda-ibc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "yui-fabric-ibc",
+  "full_name": "hyperledger-labs/yui-fabric-ibc",
+  "git_url": "git://github.com/hyperledger-labs/yui-fabric-ibc.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/yui-fabric-ibc.git",
+  "ssh_url": "git@github.com:hyperledger-labs/yui-fabric-ibc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "yui-ibc-solidity",
+  "full_name": "hyperledger-labs/yui-ibc-solidity",
+  "git_url": "git://github.com/hyperledger-labs/yui-ibc-solidity.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/yui-ibc-solidity.git",
+  "ssh_url": "git@github.com:hyperledger-labs/yui-ibc-solidity.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "yui-relayer",
+  "full_name": "hyperledger-labs/yui-relayer",
+  "git_url": "git://github.com/hyperledger-labs/yui-relayer.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/yui-relayer.git",
+  "ssh_url": "git@github.com:hyperledger-labs/yui-relayer.git",
   "has_issues": true,
   "archived": false
 }
