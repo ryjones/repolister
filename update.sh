@@ -2,7 +2,6 @@
 set -ex
 ./repo_list hyperledger
 ./repo_list hyperledger-labs
-./repo_list hyperledger-labs-archives
 ./repo_list hyperledger-archives
 ./repo_list hyperledger-twgc
 ./repo_list hyperledger-tooling
