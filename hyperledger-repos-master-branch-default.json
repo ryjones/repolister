@@ -229,46 +229,6 @@
   "archived": false
 }
 {
-  "name": "iroha-deploy",
-  "full_name": "hyperledger/iroha-deploy",
-  "git_url": "git://github.com/hyperledger/iroha-deploy.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha-deploy.git",
-  "ssh_url": "git@github.com:hyperledger/iroha-deploy.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "iroha-ed25519",
-  "full_name": "hyperledger/iroha-ed25519",
-  "git_url": "git://github.com/hyperledger/iroha-ed25519.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha-ed25519.git",
-  "ssh_url": "git@github.com:hyperledger/iroha-ed25519.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "iroha-ios",
-  "full_name": "hyperledger/iroha-ios",
-  "git_url": "git://github.com/hyperledger/iroha-ios.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha-ios.git",
-  "ssh_url": "git@github.com:hyperledger/iroha-ios.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "iroha-java",
-  "full_name": "hyperledger/iroha-java",
-  "git_url": "git://github.com/hyperledger/iroha-java.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha-java.git",
-  "ssh_url": "git@github.com:hyperledger/iroha-java.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "iroha-javascript",
   "full_name": "hyperledger/iroha-javascript",
   "git_url": "git://github.com/hyperledger/iroha-javascript.git",
@@ -285,16 +245,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/iroha-python.git",
   "ssh_url": "git@github.com:hyperledger/iroha-python.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "iroha-state-migration-tool",
-  "full_name": "hyperledger/iroha-state-migration-tool",
-  "git_url": "git://github.com/hyperledger/iroha-state-migration-tool.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/iroha-state-migration-tool.git",
-  "ssh_url": "git@github.com:hyperledger/iroha-state-migration-tool.git",
   "has_issues": true,
   "archived": false
 }
