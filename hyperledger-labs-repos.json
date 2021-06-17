@@ -159,6 +159,16 @@
   "archived": true
 }
 {
+  "name": "citizens-pulse",
+  "full_name": "hyperledger-labs/citizens-pulse",
+  "git_url": "git://github.com/hyperledger-labs/citizens-pulse.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/citizens-pulse.git",
+  "ssh_url": "git@github.com:hyperledger-labs/citizens-pulse.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "convector",
   "full_name": "hyperledger-labs/convector",
   "git_url": "git://github.com/hyperledger-labs/convector.git",
@@ -329,6 +339,16 @@
   "archived": true
 }
 {
+  "name": "fabric-operations-console",
+  "full_name": "hyperledger-labs/fabric-operations-console",
+  "git_url": "git://github.com/hyperledger-labs/fabric-operations-console.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/fabric-operations-console.git",
+  "ssh_url": "git@github.com:hyperledger-labs/fabric-operations-console.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "fabric-opssc",
   "full_name": "hyperledger-labs/fabric-opssc",
   "git_url": "git://github.com/hyperledger-labs/fabric-opssc.git",
@@ -367,6 +387,76 @@
   "ssh_url": "git@github.com:hyperledger-labs/fabric-vms-provision.git",
   "has_issues": true,
   "archived": true
+}
+{
+  "name": "firefly",
+  "full_name": "hyperledger-labs/firefly",
+  "git_url": "git://github.com/hyperledger-labs/firefly.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-cli",
+  "full_name": "hyperledger-labs/firefly-cli",
+  "git_url": "git://github.com/hyperledger-labs/firefly-cli.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-cli.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-cli.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-cordaconnect",
+  "full_name": "hyperledger-labs/firefly-cordaconnect",
+  "git_url": "git://github.com/hyperledger-labs/firefly-cordaconnect.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-cordaconnect.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-cordaconnect.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-dataexchange-https",
+  "full_name": "hyperledger-labs/firefly-dataexchange-https",
+  "git_url": "git://github.com/hyperledger-labs/firefly-dataexchange-https.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-dataexchange-https.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-dataexchange-https.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-ethconnect",
+  "full_name": "hyperledger-labs/firefly-ethconnect",
+  "git_url": "git://github.com/hyperledger-labs/firefly-ethconnect.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-ethconnect.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-ethconnect.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-samples",
+  "full_name": "hyperledger-labs/firefly-samples",
+  "git_url": "git://github.com/hyperledger-labs/firefly-samples.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-samples.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-samples.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "firefly-ui",
+  "full_name": "hyperledger-labs/firefly-ui",
+  "git_url": "git://github.com/hyperledger-labs/firefly-ui.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-ui.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-ui.git",
+  "has_issues": true,
+  "archived": false
 }
 {
   "name": "go-perun",
@@ -562,7 +652,7 @@
   "name": "private-data-objects",
   "full_name": "hyperledger-labs/private-data-objects",
   "git_url": "git://github.com/hyperledger-labs/private-data-objects.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/private-data-objects.git",
   "ssh_url": "git@github.com:hyperledger-labs/private-data-objects.git",
   "has_issues": true,
@@ -695,6 +785,16 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger-labs/yui-corda-ibc.git",
   "ssh_url": "git@github.com:hyperledger-labs/yui-corda-ibc.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "yui-docs",
+  "full_name": "hyperledger-labs/yui-docs",
+  "git_url": "git://github.com/hyperledger-labs/yui-docs.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/yui-docs.git",
+  "ssh_url": "git@github.com:hyperledger-labs/yui-docs.git",
   "has_issues": true,
   "archived": false
 }

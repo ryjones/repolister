@@ -349,16 +349,6 @@
   "archived": false
 }
 {
-  "name": "private-data-objects",
-  "full_name": "hyperledger-labs/private-data-objects",
-  "git_url": "git://github.com/hyperledger-labs/private-data-objects.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger-labs/private-data-objects.git",
-  "ssh_url": "git@github.com:hyperledger-labs/private-data-objects.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "sawtooth-healthcare",
   "full_name": "hyperledger-labs/sawtooth-healthcare",
   "git_url": "git://github.com/hyperledger-labs/sawtooth-healthcare.git",

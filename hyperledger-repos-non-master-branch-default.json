@@ -19,6 +19,16 @@
   "archived": false
 }
 {
+  "name": "aries",
+  "full_name": "hyperledger/aries",
+  "git_url": "git://github.com/hyperledger/aries.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries.git",
+  "ssh_url": "git@github.com:hyperledger/aries.git",
+  "has_issues": false,
+  "archived": false
+}
+{
   "name": "aries-acapy-plugin-toolbox",
   "full_name": "hyperledger/aries-acapy-plugin-toolbox",
   "git_url": "git://github.com/hyperledger/aries-acapy-plugin-toolbox.git",
@@ -95,6 +105,16 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/aries-sdk-android.git",
   "ssh_url": "git@github.com:hyperledger/aries-sdk-android.git",
+  "has_issues": false,
+  "archived": false
+}
+{
+  "name": "aries-sdk-java",
+  "full_name": "hyperledger/aries-sdk-java",
+  "git_url": "git://github.com/hyperledger/aries-sdk-java.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/aries-sdk-java.git",
+  "ssh_url": "git@github.com:hyperledger/aries-sdk-java.git",
   "has_issues": false,
   "archived": false
 }
@@ -676,6 +696,16 @@
   "clone_url": "https://github.com/hyperledger/perf-and-scale-wg.git",
   "ssh_url": "git@github.com:hyperledger/perf-and-scale-wg.git",
   "has_issues": false,
+  "archived": false
+}
+{
+  "name": "quilt",
+  "full_name": "hyperledger/quilt",
+  "git_url": "git://github.com/hyperledger/quilt.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/quilt.git",
+  "ssh_url": "git@github.com:hyperledger/quilt.git",
+  "has_issues": true,
   "archived": false
 }
 {

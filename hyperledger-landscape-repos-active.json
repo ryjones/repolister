@@ -1,14 +1,4 @@
 {
-  "name": "gdlf",
-  "full_name": "hyperledger-landscape/gdlf",
-  "git_url": "git://github.com/hyperledger-landscape/gdlf.git",
-  "default_branch": "main",
-  "clone_url": "https://github.com/hyperledger-landscape/gdlf.git",
-  "ssh_url": "git@github.com:hyperledger-landscape/gdlf.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "hl-landscape",
   "full_name": "hyperledger-landscape/hl-landscape",
   "git_url": "git://github.com/hyperledger-landscape/hl-landscape.git",

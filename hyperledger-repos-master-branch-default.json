@@ -1,14 +1,4 @@
 {
-  "name": "aries",
-  "full_name": "hyperledger/aries",
-  "git_url": "git://github.com/hyperledger/aries.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries.git",
-  "ssh_url": "git@github.com:hyperledger/aries.git",
-  "has_issues": false,
-  "archived": false
-}
-{
   "name": "aries-acapy-controllers",
   "full_name": "hyperledger/aries-acapy-controllers",
   "git_url": "git://github.com/hyperledger/aries-acapy-controllers.git",
@@ -66,16 +56,6 @@
   "clone_url": "https://github.com/hyperledger/aries-rfcs.git",
   "ssh_url": "git@github.com:hyperledger/aries-rfcs.git",
   "has_issues": true,
-  "archived": false
-}
-{
-  "name": "aries-sdk-java",
-  "full_name": "hyperledger/aries-sdk-java",
-  "git_url": "git://github.com/hyperledger/aries-sdk-java.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-sdk-java.git",
-  "ssh_url": "git@github.com:hyperledger/aries-sdk-java.git",
-  "has_issues": false,
   "archived": false
 }
 {
@@ -245,16 +225,6 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/iroha-python.git",
   "ssh_url": "git@github.com:hyperledger/iroha-python.git",
-  "has_issues": true,
-  "archived": false
-}
-{
-  "name": "quilt",
-  "full_name": "hyperledger/quilt",
-  "git_url": "git://github.com/hyperledger/quilt.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/quilt.git",
-  "ssh_url": "git@github.com:hyperledger/quilt.git",
   "has_issues": true,
   "archived": false
 }
