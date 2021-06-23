@@ -189,6 +189,16 @@
   "archived": false
 }
 {
+  "name": "cello",
+  "full_name": "hyperledger/cello",
+  "git_url": "git://github.com/hyperledger/cello.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/cello.git",
+  "ssh_url": "git@github.com:hyperledger/cello.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "cello-analytics",
   "full_name": "hyperledger/cello-analytics",
   "git_url": "git://github.com/hyperledger/cello-analytics.git",
