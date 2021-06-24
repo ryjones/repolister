@@ -485,7 +485,7 @@
   "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/fabric-test.git",
   "ssh_url": "git@github.com:hyperledger/fabric-test.git",
-  "has_issues": false,
+  "has_issues": true,
   "archived": false
 }
 {
