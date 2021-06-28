@@ -69,16 +69,6 @@
   "archived": false
 }
 {
-  "name": "avalon",
-  "full_name": "hyperledger/avalon",
-  "git_url": "git://github.com/hyperledger/avalon.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/avalon.git",
-  "ssh_url": "git@github.com:hyperledger/avalon.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "besu",
   "full_name": "hyperledger/besu",
   "git_url": "git://github.com/hyperledger/besu.git",

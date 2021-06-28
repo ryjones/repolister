@@ -159,6 +159,16 @@
   "archived": false
 }
 {
+  "name": "avalon",
+  "full_name": "hyperledger/avalon",
+  "git_url": "git://github.com/hyperledger/avalon.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/avalon.git",
+  "ssh_url": "git@github.com:hyperledger/avalon.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "blockchain-explorer",
   "full_name": "hyperledger/blockchain-explorer",
   "git_url": "git://github.com/hyperledger/blockchain-explorer.git",
