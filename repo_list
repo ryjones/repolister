@@ -8,8 +8,7 @@ curl -s https://api.github.com/users/$1/repos?per_page=100\&page=\[1-2\] |\
            ssh_url: .ssh_url, has_issues: .has_issues,
            archived: .archived}' | sort | jq '.' > $1-repos.json
 
-jq 'select(.default_branch != "master")' < $1-repos.json > $1-repos-non-master-branch-default.json
-jq 'select(.default_branch == "master")' < $1-repos.json > $1-repos-master-branch-default.json
+jq 'select(.default_branch == "master")' < $1-repos.json > status/$1-repos-master-branch-default.json
 
-jq 'select(.archived != true)' < $1-repos.json > $1-repos-active.json
-jq 'select(.archived == true)' < $1-repos.json > $1-repos-archived.json
+jq 'select(.archived != true)' < $1-repos.json > status/$1-repos-active.json
+jq 'select(.archived == true)' < $1-repos.json > status/$1-repos-archived.json
