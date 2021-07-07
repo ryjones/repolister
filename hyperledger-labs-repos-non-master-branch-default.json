@@ -209,6 +209,16 @@
   "archived": false
 }
 {
+  "name": "firefly-fabconnect",
+  "full_name": "hyperledger-labs/firefly-fabconnect",
+  "git_url": "git://github.com/hyperledger-labs/firefly-fabconnect.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger-labs/firefly-fabconnect.git",
+  "ssh_url": "git@github.com:hyperledger-labs/firefly-fabconnect.git",
+  "has_issues": true,
+  "archived": false
+}
+{
   "name": "firefly-samples",
   "full_name": "hyperledger-labs/firefly-samples",
   "git_url": "git://github.com/hyperledger-labs/firefly-samples.git",

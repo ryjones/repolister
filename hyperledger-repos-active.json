@@ -52,7 +52,7 @@
   "name": "aries-agent-test-harness",
   "full_name": "hyperledger/aries-agent-test-harness",
   "git_url": "git://github.com/hyperledger/aries-agent-test-harness.git",
-  "default_branch": "master",
+  "default_branch": "main",
   "clone_url": "https://github.com/hyperledger/aries-agent-test-harness.git",
   "ssh_url": "git@github.com:hyperledger/aries-agent-test-harness.git",
   "has_issues": true,
@@ -765,6 +765,16 @@
   "default_branch": "master",
   "clone_url": "https://github.com/hyperledger/indy-sdk.git",
   "ssh_url": "git@github.com:hyperledger/indy-sdk.git",
+  "has_issues": true,
+  "archived": false
+}
+{
+  "name": "indy-sdk-react-native",
+  "full_name": "hyperledger/indy-sdk-react-native",
+  "git_url": "git://github.com/hyperledger/indy-sdk-react-native.git",
+  "default_branch": "main",
+  "clone_url": "https://github.com/hyperledger/indy-sdk-react-native.git",
+  "ssh_url": "git@github.com:hyperledger/indy-sdk-react-native.git",
   "has_issues": true,
   "archived": false
 }

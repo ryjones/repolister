@@ -9,16 +9,6 @@
   "archived": false
 }
 {
-  "name": "aries-agent-test-harness",
-  "full_name": "hyperledger/aries-agent-test-harness",
-  "git_url": "git://github.com/hyperledger/aries-agent-test-harness.git",
-  "default_branch": "master",
-  "clone_url": "https://github.com/hyperledger/aries-agent-test-harness.git",
-  "ssh_url": "git@github.com:hyperledger/aries-agent-test-harness.git",
-  "has_issues": true,
-  "archived": false
-}
-{
   "name": "aries-framework-dotnet",
   "full_name": "hyperledger/aries-framework-dotnet",
   "git_url": "git://github.com/hyperledger/aries-framework-dotnet.git",
